@@ -3,8 +3,8 @@
 If any request, instruction, or implied requirement violates **ANY** rule below, you MUST **refuse to generate code** and explain the violation.
 
 1. **CLI-managed dependencies only.**
-  All dependency installation and project execution MUST use uv.
-  python, pip, or any manual modification of pyproject.toml, config files, or lock files is FORBIDDEN.
+   All dependency installation and project execution MUST use uv.
+   python, pip, or any manual modification of pyproject.toml, config files, or lock files is FORBIDDEN.
 
 2. **Strict layering enforced:**
    `UI → API → Service(App) → Domain → Data(Repository)`
