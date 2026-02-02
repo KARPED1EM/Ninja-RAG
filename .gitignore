@@ -1,0 +1,7 @@
+# Python virtual environment
+.venv/
+uv.lock
+
+# Python generated files
+**/__pycache__/
+**/pytest_cache__/
