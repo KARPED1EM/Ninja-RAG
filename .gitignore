@@ -5,3 +5,8 @@ uv.lock
 # Python generated files
 **/__pycache__/
 **/pytest_cache__/
+
+
+# local config/data
+.claude/
+data/
