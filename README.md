@@ -1,3 +1,3 @@
-# RACG
+# Ninja-RAG
 
 Working in progress...

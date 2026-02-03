@@ -1,7 +1,7 @@
 [project]
-name = "racg"
+name = "ninja-rag"
 version = "0.1.0"
-description = "Anime knowledge-based dialogue LLM with RAG"
+description = "Naruto knowledge-based dialogue LLM with RAG"
 readme = "README.md"
 requires-python = ">=3.12,<3.13"
 dependencies = [
