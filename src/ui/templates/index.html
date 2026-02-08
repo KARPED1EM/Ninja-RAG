@@ -1,0 +1,1008 @@
+{% extends "base.html" %}
+
+{% block title %}查询系统 - Ninja RAG{% endblock %}
+
+{% block styles %}
+<style>
+    /* === 整体布局容器 === */
+    .query-container {
+        position: fixed;
+        top: 60px;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        display: grid;
+        grid-template-columns: 1fr 400px;
+        /* 左侧自适应，右侧固定 400px */
+        gap: 0;
+        background: var(--bg-dark);
+    }
+
+    /* === 左侧聊天区域（上下分栏）=== */
+    .chat-section {
+        display: flex;
+        flex-direction: column;
+        border-right: 1px solid var(--border);
+        background: var(--bg-dark);
+        min-height: 0;
+        /* 关键：允许子元素滚动 */
+    }
+
+    /* 上部：消息容器（自适应高度，可滚动）*/
+    .messages-area {
+        flex: 1;
+        /* 占据剩余空间 */
+        min-height: 0;
+        /* 关键：允许滚动 */
+        overflow-y: auto;
+        overflow-x: hidden;
+        padding: 32px 24px;
+        display: flex;
+        flex-direction: column;
+        gap: 24px;
+    }
+
+    /* 下部：输入框区域（固定高度）*/
+    .input-area {
+        flex-shrink: 0;
+        /* 不允许压缩 */
+        background: var(--bg-card);
+        border-top: 1px solid var(--border);
+        padding: 20px 24px;
+    }
+
+    .input-wrapper {
+        display: flex;
+        gap: 12px;
+        align-items: flex-end;
+    }
+
+    .input-field {
+        flex: 1;
+        background: rgba(255, 255, 255, 0.05);
+        border: 1px solid var(--border);
+        color: var(--text-primary);
+        font-family: var(--font-sans);
+        font-size: 15px;
+        padding: 12px 16px;
+        border-radius: 12px;
+        outline: none;
+        transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+        resize: none;
+        min-height: 48px;
+        max-height: 160px;
+        line-height: 1.5;
+    }
+
+    .input-field:focus {
+        border-color: var(--primary);
+        background: rgba(255, 255, 255, 0.08);
+        box-shadow: 0 0 0 3px rgba(0, 212, 255, 0.08);
+    }
+
+    .input-field::placeholder {
+        color: var(--text-dim);
+    }
+
+    .send-btn {
+        flex-shrink: 0;
+        padding: 12px 28px;
+        background: linear-gradient(135deg, var(--primary) 0%, #00b8d4 100%);
+        border: none;
+        color: #000;
+        font-size: 14px;
+        font-weight: 600;
+        border-radius: 12px;
+        cursor: pointer;
+        transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+        height: 48px;
+        box-shadow: 0 2px 8px rgba(0, 212, 255, 0.2);
+    }
+
+    .send-btn:hover:not(:disabled) {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 16px rgba(0, 212, 255, 0.3);
+    }
+
+    .send-btn:active:not(:disabled) {
+        transform: translateY(0);
+    }
+
+    .send-btn:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+        transform: none !important;
+    }
+
+    /* === 消息气泡 === */
+    .message-bubble {
+        display: flex;
+        gap: 12px;
+        max-width: 85%;
+        animation: messageSlideIn 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    @keyframes messageSlideIn {
+        from {
+            opacity: 0;
+            transform: translateY(12px);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    .message-bubble.user {
+        align-self: flex-end;
+        flex-direction: row-reverse;
+    }
+
+    .message-bubble.assistant {
+        align-self: flex-start;
+    }
+
+    /* 头像 */
+    .message-avatar {
+        flex-shrink: 0;
+        width: 40px;
+        height: 40px;
+        border-radius: 12px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 20px;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .message-bubble.user .message-avatar {
+        background: linear-gradient(135deg, rgba(168, 85, 247, 0.15) 0%, rgba(139, 92, 246, 0.15) 100%);
+        border: 1px solid rgba(168, 85, 247, 0.3);
+    }
+
+    .message-bubble.assistant .message-avatar {
+        background: linear-gradient(135deg, rgba(0, 212, 255, 0.15) 0%, rgba(0, 184, 212, 0.15) 100%);
+        border: 1px solid rgba(0, 212, 255, 0.3);
+    }
+
+    /* 消息主体 */
+    .message-body {
+        flex: 1;
+        min-width: 0;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .message-role {
+        font-size: 12px;
+        font-weight: 600;
+        letter-spacing: 0.3px;
+        text-transform: uppercase;
+        opacity: 0.6;
+    }
+
+    .message-bubble.user .message-role {
+        text-align: right;
+        color: var(--secondary);
+    }
+
+    .message-bubble.assistant .message-role {
+        color: var(--primary);
+    }
+
+    /* 气泡内容 */
+    .message-content {
+        background: var(--bg-card);
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        padding: 14px 18px;
+        font-size: 15px;
+        line-height: 1.7;
+        color: var(--text-primary);
+        word-wrap: break-word;
+        position: relative;
+        transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .message-bubble.user .message-content {
+        background: linear-gradient(135deg, rgba(168, 85, 247, 0.08) 0%, rgba(139, 92, 246, 0.08) 100%);
+        border-color: rgba(168, 85, 247, 0.25);
+        border-radius: 16px 4px 16px 16px;
+    }
+
+    .message-bubble.assistant .message-content {
+        background: var(--bg-card);
+        border-color: rgba(0, 212, 255, 0.15);
+        border-radius: 4px 16px 16px 16px;
+    }
+
+    .message-content:hover {
+        border-color: rgba(0, 212, 255, 0.3);
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+    }
+
+    /* 思考中动画 */
+    .thinking-indicator {
+        display: inline-flex;
+        gap: 6px;
+        align-items: center;
+        color: var(--text-secondary);
+        font-style: italic;
+    }
+
+    .thinking-dots {
+        display: inline-flex;
+        gap: 4px;
+    }
+
+    .thinking-dot {
+        width: 6px;
+        height: 6px;
+        border-radius: 50%;
+        background: linear-gradient(135deg, var(--primary), var(--secondary));
+        animation: thinkingPulse 1.4s ease-in-out infinite;
+    }
+
+    .thinking-dot:nth-child(2) {
+        animation-delay: 0.2s;
+    }
+
+    .thinking-dot:nth-child(3) {
+        animation-delay: 0.4s;
+    }
+
+    @keyframes thinkingPulse {
+
+        0%,
+        60%,
+        100% {
+            opacity: 0.25;
+            transform: scale(0.8);
+        }
+
+        30% {
+            opacity: 1;
+            transform: scale(1.2);
+        }
+    }
+
+    /* 打字机光标 */
+    .typing-cursor {
+        display: inline-block;
+        width: 2px;
+        height: 18px;
+        background: var(--primary);
+        margin-left: 2px;
+        animation: cursorBlink 1s infinite;
+        vertical-align: text-bottom;
+    }
+
+    @keyframes cursorBlink {
+
+        0%,
+        50% {
+            opacity: 1;
+        }
+
+        51%,
+        100% {
+            opacity: 0;
+        }
+    }
+
+    /* 置信度条 */
+    .confidence-section {
+        margin-top: 14px;
+        padding-top: 14px;
+        border-top: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .confidence-label {
+        font-size: 11px;
+        font-weight: 600;
+        color: var(--text-dim);
+        margin-bottom: 8px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+    }
+
+    .confidence-track {
+        height: 6px;
+        background: rgba(255, 255, 255, 0.05);
+        border-radius: 3px;
+        overflow: hidden;
+        position: relative;
+    }
+
+    .confidence-fill {
+        height: 100%;
+        border-radius: 3px;
+        background: linear-gradient(90deg,
+                #ef4444 0%,
+                #f59e0b 35%,
+                #10b981 70%,
+                var(--primary) 100%);
+        transition: width 0.8s cubic-bezier(0.4, 0, 0.2, 1);
+        position: relative;
+        overflow: hidden;
+    }
+
+    .confidence-fill::after {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: linear-gradient(90deg,
+                transparent 0%,
+                rgba(255, 255, 255, 0.3) 50%,
+                transparent 100%);
+        animation: shimmer 2s infinite;
+    }
+
+    @keyframes shimmer {
+        0% {
+            transform: translateX(-100%);
+        }
+
+        100% {
+            transform: translateX(100%);
+        }
+    }
+
+    /* 查看上下文按钮 */
+    .view-context-btn {
+        margin-top: 12px;
+        padding: 8px 14px;
+        background: rgba(0, 212, 255, 0.05);
+        border: 1px solid rgba(0, 212, 255, 0.2);
+        color: var(--primary);
+        font-size: 12px;
+        font-weight: 500;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+    }
+
+    .view-context-btn:hover {
+        background: rgba(0, 212, 255, 0.1);
+        border-color: var(--primary);
+        transform: translateX(2px);
+    }
+
+    /* === 右侧面板（垂直堆叠，各占 50%）=== */
+    .sidebar {
+        display: flex;
+        flex-direction: column;
+        background: var(--bg-dark);
+        min-height: 0;
+        /* 关键：允许子元素滚动 */
+    }
+
+    /* 单个面板（向量检索 / 图谱推理）*/
+    .side-panel {
+        flex: 1;
+        /* 平分高度，各占 50% */
+        min-height: 0;
+        /* 关键：允许内部滚动 */
+        display: flex;
+        flex-direction: column;
+        border-bottom: 1px solid var(--border);
+    }
+
+    .side-panel:last-child {
+        border-bottom: none;
+    }
+
+    /* 面板标题（固定高度）*/
+    .panel-header {
+        flex-shrink: 0;
+        padding: 18px 20px;
+        background: var(--bg-card);
+        border-bottom: 1px solid var(--border);
+    }
+
+    .panel-title {
+        font-size: 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        color: var(--text-secondary);
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    /* 面板内容（自适应高度，可滚动）*/
+    .panel-content {
+        flex: 1;
+        /* 占据剩余空间 */
+        min-height: 0;
+        /* 关键：允许滚动 */
+        overflow-y: auto;
+        overflow-x: hidden;
+        padding: 16px;
+    }
+
+    /* 来源项 */
+    .source-item {
+        background: rgba(0, 212, 255, 0.03);
+        border-left: 3px solid var(--primary);
+        padding: 14px;
+        margin-bottom: 12px;
+        border-radius: 8px;
+        transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .source-item:hover {
+        background: rgba(0, 212, 255, 0.08);
+        border-left-color: #00e5ff;
+        transform: translateX(4px);
+    }
+
+    .source-title {
+        font-size: 13px;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 8px;
+        line-height: 1.4;
+    }
+
+    .source-score {
+        font-size: 11px;
+        font-weight: 600;
+        color: var(--accent);
+        margin-bottom: 8px;
+        text-transform: uppercase;
+        letter-spacing: 0.3px;
+    }
+
+    .source-preview {
+        font-size: 12px;
+        color: var(--text-dim);
+        line-height: 1.6;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+    /* 图谱路径 */
+    .graph-path {
+        background: rgba(168, 85, 247, 0.03);
+        border-left: 3px solid var(--secondary);
+        padding: 14px;
+        margin-bottom: 12px;
+        border-radius: 8px;
+        transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    .graph-path:hover {
+        background: rgba(168, 85, 247, 0.08);
+        border-left-color: #c084fc;
+        transform: translateX(4px);
+    }
+
+    .graph-nodes {
+        font-size: 13px;
+        font-weight: 600;
+        color: var(--text-primary);
+        margin-bottom: 8px;
+        line-height: 1.4;
+    }
+
+    .graph-relation {
+        font-size: 12px;
+        color: var(--text-dim);
+        line-height: 1.6;
+    }
+
+    /* 空状态 */
+    .empty-state {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 60px 20px;
+        color: var(--text-dim);
+        text-align: center;
+    }
+
+    .empty-icon {
+        font-size: 56px;
+        margin-bottom: 16px;
+        opacity: 0.4;
+        filter: grayscale(0.3);
+    }
+
+    .empty-text {
+        font-size: 13px;
+        line-height: 1.7;
+        max-width: 240px;
+    }
+
+    /* === 模态框 === */
+    .modal-overlay {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.85);
+        backdrop-filter: blur(4px);
+        z-index: 9999;
+        align-items: center;
+        justify-content: center;
+        animation: fadeIn 0.2s;
+    }
+
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+        }
+
+        to {
+            opacity: 1;
+        }
+    }
+
+    .modal-overlay.active {
+        display: flex;
+    }
+
+    .context-modal {
+        background: var(--bg-card);
+        border: 1px solid var(--border);
+        border-radius: 16px;
+        padding: 28px;
+        max-width: 900px;
+        max-height: 85vh;
+        width: 90%;
+        overflow-y: auto;
+        box-shadow: 0 24px 64px rgba(0, 0, 0, 0.5);
+        animation: modalSlideUp 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    @keyframes modalSlideUp {
+        from {
+            opacity: 0;
+            transform: translateY(24px) scale(0.96);
+        }
+
+        to {
+            opacity: 1;
+            transform: translateY(0) scale(1);
+        }
+    }
+
+    .modal-header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 24px;
+        padding-bottom: 20px;
+        border-bottom: 1px solid var(--border);
+    }
+
+    .modal-title {
+        font-size: 18px;
+        font-weight: 700;
+        color: var(--text-primary);
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .modal-close {
+        width: 36px;
+        height: 36px;
+        background: rgba(255, 255, 255, 0.05);
+        border: 1px solid var(--border);
+        color: var(--text-secondary);
+        font-size: 24px;
+        border-radius: 8px;
+        cursor: pointer;
+        transition: all 0.2s;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        line-height: 1;
+    }
+
+    .modal-close:hover {
+        background: rgba(255, 255, 255, 0.1);
+        color: var(--text-primary);
+        transform: rotate(90deg);
+    }
+
+    .context-section {
+        margin-bottom: 24px;
+    }
+
+    .context-section:last-child {
+        margin-bottom: 0;
+    }
+
+    .context-label {
+        font-size: 12px;
+        font-weight: 700;
+        color: var(--text-secondary);
+        margin-bottom: 12px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }
+
+    .context-box {
+        background: rgba(0, 0, 0, 0.3);
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        border-radius: 10px;
+        padding: 18px;
+        font-family: var(--font-mono);
+        font-size: 13px;
+        line-height: 1.8;
+        color: var(--text-secondary);
+        white-space: pre-wrap;
+        word-wrap: break-word;
+        max-height: 340px;
+        overflow-y: auto;
+    }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="query-container">
+    <!-- 左侧聊天区 -->
+    <div class="chat-section">
+        <!-- 消息列表 -->
+        <div class="messages-area" id="messagesArea">
+            <div class="empty-state">
+                <div class="empty-icon">🔥</div>
+                <div class="empty-text">
+                    Ninja RAG 知识库已就绪<br>
+                    输入问题开始对话
+                </div>
+            </div>
+        </div>
+
+        <!-- 输入区域 -->
+        <div class="input-area">
+            <div class="input-wrapper">
+                <textarea class="input-field" id="queryInput" placeholder="输入问题... (Enter 发送 | Shift+Enter 换行)"
+                    rows="1"></textarea>
+                <button class="send-btn" id="sendBtn">发送</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 右侧面板 -->
+    <div class="sidebar">
+        <!-- 向量检索 -->
+        <div class="side-panel">
+            <div class="panel-header">
+                <div class="panel-title">
+                    <span>📚</span>
+                    <span>向量检索</span>
+                </div>
+            </div>
+            <div class="panel-content" id="sourcesPanel">
+                <div class="empty-state">
+                    <div class="empty-icon">⏳</div>
+                    <div class="empty-text">等待查询</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 图谱推理 -->
+        <div class="side-panel">
+            <div class="panel-header">
+                <div class="panel-title">
+                    <span>🔗</span>
+                    <span>图谱推理</span>
+                </div>
+            </div>
+            <div class="panel-content" id="graphPanel">
+                <div class="empty-state">
+                    <div class="empty-icon">⏳</div>
+                    <div class="empty-text">等待查询</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 上下文模态框 -->
+<div class="modal-overlay" id="contextModal">
+    <div class="context-modal">
+        <div class="modal-header">
+            <div class="modal-title">
+                <span>🔍</span>
+                <span>提示词上下文</span>
+            </div>
+            <button class="modal-close" id="modalClose">×</button>
+        </div>
+
+        <div class="context-section">
+            <div class="context-label">
+                <span>📄</span>
+                <span>上下文 (Context)</span>
+            </div>
+            <div class="context-box" id="contextContent"></div>
+        </div>
+
+        <div class="context-section">
+            <div class="context-label">
+                <span>💬</span>
+                <span>完整提示词 (Prompt)</span>
+            </div>
+            <div class="context-box" id="promptContent"></div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    const queryInput = document.getElementById('queryInput');
+    const sendBtn = document.getElementById('sendBtn');
+    const messagesArea = document.getElementById('messagesArea');
+    const sourcesPanel = document.getElementById('sourcesPanel');
+    const graphPanel = document.getElementById('graphPanel');
+    const contextModal = document.getElementById('contextModal');
+    const modalClose = document.getElementById('modalClose');
+    const contextContent = document.getElementById('contextContent');
+    const promptContent = document.getElementById('promptContent');
+
+    let currentThinkingBubble = null;
+
+    // 自动调整 textarea 高度
+    queryInput.addEventListener('input', () => {
+        queryInput.style.height = 'auto';
+        queryInput.style.height = Math.min(queryInput.scrollHeight, 160) + 'px';
+    });
+
+    // Enter 发送，Shift+Enter 换行
+    queryInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter' && !e.shiftKey) {
+            e.preventDefault();
+            sendQuery();
+        }
+    });
+
+    sendBtn.addEventListener('click', sendQuery);
+    modalClose.addEventListener('click', closeModal);
+    contextModal.addEventListener('click', (e) => {
+        if (e.target === contextModal) closeModal();
+    });
+
+    async function sendQuery() {
+        const question = queryInput.value.trim();
+        if (!question) return;
+
+        // 禁用输入
+        queryInput.disabled = true;
+        sendBtn.disabled = true;
+
+        // 清空空状态
+        clearEmptyState(messagesArea);
+
+        // 添加用户消息
+        addMessage('user', question);
+        queryInput.value = '';
+        queryInput.style.height = 'auto';
+
+        // 立即显示 Bot 思考气泡
+        currentThinkingBubble = addThinkingMessage();
+
+        try {
+            const response = await fetch('/api/query', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ question, top_k: 5 })
+            });
+
+            if (!response.ok) throw new Error('查询失败');
+
+            const data = await response.json();
+
+            // 替换思考气泡为实际答案
+            replaceThinkingWithAnswer(data.answer, data.confidence, data.context, data.prompt);
+
+            // 更新侧边栏
+            updateSources(data.vector_sources || []);
+            updateGraph(data.graph_paths || []);
+
+        } catch (error) {
+            // 替换为错误消息
+            if (currentThinkingBubble) {
+                const contentEl = currentThinkingBubble.querySelector('.message-content');
+                contentEl.innerHTML = `❌ 查询失败: ${escapeHtml(error.message)}`;
+            }
+        } finally {
+            currentThinkingBubble = null;
+            queryInput.disabled = false;
+            sendBtn.disabled = false;
+            queryInput.focus();
+        }
+    }
+
+    function clearEmptyState(container) {
+        const empty = container.querySelector('.empty-state');
+        if (empty) empty.remove();
+    }
+
+    function addMessage(role, content) {
+        const bubble = document.createElement('div');
+        bubble.className = `message-bubble ${role}`;
+
+        bubble.innerHTML = `
+            <div class="message-avatar">${role === 'user' ? '👤' : '🤖'}</div>
+            <div class="message-body">
+                <div class="message-role">${role === 'user' ? 'User' : 'Ninja-RAG'}</div>
+                <div class="message-content">${escapeHtml(content)}</div>
+            </div>
+        `;
+
+        messagesArea.appendChild(bubble);
+        scrollToBottom();
+    }
+
+    function addThinkingMessage() {
+        const bubble = document.createElement('div');
+        bubble.className = 'message-bubble assistant';
+
+        bubble.innerHTML = `
+            <div class="message-avatar">🤖</div>
+            <div class="message-body">
+                <div class="message-role">Ninja-RAG</div>
+                <div class="message-content">
+                    <div class="thinking-indicator">
+                        正在思考
+                        <div class="thinking-dots">
+                            <div class="thinking-dot"></div>
+                            <div class="thinking-dot"></div>
+                            <div class="thinking-dot"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        `;
+
+        messagesArea.appendChild(bubble);
+        scrollToBottom();
+        return bubble;
+    }
+
+    function replaceThinkingWithAnswer(answer, confidence, context, prompt) {
+        if (!currentThinkingBubble) return;
+
+        const contentEl = currentThinkingBubble.querySelector('.message-content');
+        contentEl.innerHTML = '';
+
+        // 打字机效果显示答案
+        typeWriter(contentEl, answer, () => {
+            // 打字完成后添加置信度和按钮
+            if (confidence !== null && confidence !== undefined) {
+                const percent = Math.round(confidence * 100);
+                const confidenceSection = document.createElement('div');
+                confidenceSection.className = 'confidence-section';
+                confidenceSection.innerHTML = `
+                    <div class="confidence-label">置信度: ${percent}%</div>
+                    <div class="confidence-track">
+                        <div class="confidence-fill" style="width: ${percent}%"></div>
+                    </div>
+                `;
+                contentEl.appendChild(confidenceSection);
+            }
+
+            if (prompt) {
+                const btn = document.createElement('button');
+                btn.className = 'view-context-btn';
+                btn.innerHTML = '查看上下文 <span>→</span>';
+                btn.onclick = () => openContextModal(context, prompt);
+                contentEl.appendChild(btn);
+            }
+        });
+    }
+
+    function typeWriter(element, text, onComplete, speed = 15) {
+        const textNode = document.createTextNode('');
+        element.appendChild(textNode);
+
+        const cursor = document.createElement('span');
+        cursor.className = 'typing-cursor';
+        element.appendChild(cursor);
+
+        let i = 0;
+        function type() {
+            if (i < text.length) {
+                textNode.textContent += text.charAt(i);
+                i++;
+                scrollToBottom();
+                setTimeout(type, speed);
+            } else {
+                cursor.remove();
+                if (onComplete) onComplete();
+            }
+        }
+
+        type();
+    }
+
+    function updateSources(sources) {
+        clearEmptyState(sourcesPanel);
+
+        if (sources.length === 0) {
+            sourcesPanel.innerHTML = `
+                <div class="empty-state">
+                    <div class="empty-icon">📭</div>
+                    <div class="empty-text">无相关文档</div>
+                </div>
+            `;
+            return;
+        }
+
+        sourcesPanel.innerHTML = sources.map(s => `
+            <div class="source-item">
+                <div class="source-title">${escapeHtml(s.section_title)}</div>
+                <div class="source-score">相似度 ${(s.score * 100).toFixed(1)}%</div>
+                <div class="source-preview">${escapeHtml(s.content)}</div>
+            </div>
+        `).join('');
+    }
+
+    function updateGraph(paths) {
+        clearEmptyState(graphPanel);
+
+        if (paths.length === 0) {
+            graphPanel.innerHTML = `
+                <div class="empty-state">
+                    <div class="empty-icon">📭</div>
+                    <div class="empty-text">无图谱关系</div>
+                </div>
+            `;
+            return;
+        }
+
+        graphPanel.innerHTML = paths.map(p => `
+            <div class="graph-path">
+                <div class="graph-nodes">${escapeHtml(p.start_entity)} → ${escapeHtml(p.end_entity)}</div>
+                <div class="graph-relation">${escapeHtml(p.path_description)}</div>
+            </div>
+        `).join('');
+    }
+
+    function openContextModal(context, prompt) {
+        contextContent.textContent = context || '(无上下文)';
+        promptContent.textContent = prompt || '(无提示词)';
+        contextModal.classList.add('active');
+    }
+
+    function closeModal() {
+        contextModal.classList.remove('active');
+    }
+
+    function scrollToBottom() {
+        messagesArea.scrollTop = messagesArea.scrollHeight;
+    }
+
+    function escapeHtml(text) {
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+    }
+
+    // 初始聚焦
+    queryInput.focus();
+</script>
+{% endblock %}

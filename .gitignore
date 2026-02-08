@@ -9,6 +9,7 @@ uv.lock
 # local config/data/log
 **/*.log
 data/storage/
+.cache/
 .env
 
 # IDE
