@@ -1,0 +1,17 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 476953,
+        "ns": 0,
+        "title": "火影忍者疾風傳",
+        "pageprops": {
+          "defaultsort": "Naruto: Shippūden",
+          "page_image": "Naruto_Shippuuden_Logo.svg",
+          "wikibase_item": "Q12500134"
+        }
+      }
+    ]
+  }
+}

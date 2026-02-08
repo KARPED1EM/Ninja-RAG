@@ -1,0 +1,17 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 48272,
+        "ns": 0,
+        "title": "火影忍者",
+        "pageprops": {
+          "defaultsort": "Naruto",
+          "page_image_free": "Naruto_logo.svg",
+          "wikibase_item": "Q26971382"
+        }
+      }
+    ]
+  }
+}

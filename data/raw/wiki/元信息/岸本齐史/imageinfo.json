@@ -1,0 +1,24 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:OOjs UI icon edit-ltr-progressive.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 349,
+            "width": 20,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55041643",
+            "mime": "image/svg+xml"
+          }
+        ]
+      }
+    ]
+  }
+}

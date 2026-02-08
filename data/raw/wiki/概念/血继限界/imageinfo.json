@@ -1,0 +1,94 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Copyright-problem.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 10792,
+            "width": 111,
+            "height": 120,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Copyright-problem.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Copyright-problem.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2756124",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Ambox important.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 6821,
+            "width": 40,
+            "height": 40,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4042543",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "pageid": 536791,
+        "ns": 6,
+        "title": "File:宁次的白眼.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 17893,
+            "width": 360,
+            "height": 270,
+            "url": "https://upload.wikimedia.org/wikipedia/zh/1/17/%E5%AE%81%E6%AC%A1%E7%9A%84%E7%99%BD%E7%9C%BC.jpg",
+            "descriptionurl": "https://zh.wikipedia.org/wiki/File:%E5%AE%81%E6%AC%A1%E7%9A%84%E7%99%BD%E7%9C%BC.jpg",
+            "descriptionshorturl": "https://zh.wikipedia.org/w/index.php?curid=536791",
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 1149620,
+        "ns": 6,
+        "title": "File:培因的輪迴眼.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 15250,
+            "width": 361,
+            "height": 271,
+            "url": "https://upload.wikimedia.org/wikipedia/zh/c/c9/%E5%9F%B9%E5%9B%A0%E7%9A%84%E8%BC%AA%E8%BF%B4%E7%9C%BC.jpg",
+            "descriptionurl": "https://zh.wikipedia.org/wiki/File:%E5%9F%B9%E5%9B%A0%E7%9A%84%E8%BC%AA%E8%BF%B4%E7%9C%BC.jpg",
+            "descriptionshorturl": "https://zh.wikipedia.org/w/index.php?curid=1149620",
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}
