@@ -1,0 +1,22 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "火影忍者疾風傳_激鬥忍者大戰！EX",
+        "to": "火影忍者疾風傳 激鬥忍者大戰！EX"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 3254531,
+        "ns": 0,
+        "title": "火影忍者疾風傳 激鬥忍者大戰！EX",
+        "pageprops": {
+          "wikibase_item": "Q16691126"
+        }
+      }
+    ]
+  }
+}

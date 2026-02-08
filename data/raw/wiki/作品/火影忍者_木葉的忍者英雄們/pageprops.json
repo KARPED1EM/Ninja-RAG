@@ -1,0 +1,22 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "火影忍者_木葉的忍者英雄們",
+        "to": "火影忍者 木葉的忍者英雄們"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 3254552,
+        "ns": 0,
+        "title": "火影忍者 木葉的忍者英雄們",
+        "pageprops": {
+          "wikibase_item": "Q2293688"
+        }
+      }
+    ]
+  }
+}

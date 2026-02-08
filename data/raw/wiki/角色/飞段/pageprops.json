@@ -1,0 +1,17 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 563638,
+        "ns": 0,
+        "title": "飞段",
+        "pageprops": {
+          "defaultsort": "Hidan",
+          "page_image": "Hidan.png",
+          "wikibase_item": "Q714701"
+        }
+      }
+    ]
+  }
+}

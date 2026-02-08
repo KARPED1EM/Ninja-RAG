@@ -1,0 +1,24 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "慕留人-火影忍者新世代-_(動畫)",
+        "to": "慕留人-火影忍者新世代- (動畫)"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 6928284,
+        "ns": 0,
+        "title": "慕留人-火影忍者新世代- (動畫)",
+        "pageprops": {
+          "defaultsort": "BORUTO",
+          "page_image_free": "Boruto_logo.png",
+          "wikibase_item": "Q86731882"
+        }
+      }
+    ]
+  }
+}

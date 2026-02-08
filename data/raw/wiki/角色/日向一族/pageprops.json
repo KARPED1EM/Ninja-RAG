@@ -1,0 +1,16 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 516514,
+        "ns": 0,
+        "title": "日向一族",
+        "pageprops": {
+          "defaultsort": "Hyuuga",
+          "wikibase_item": "Q717098"
+        }
+      }
+    ]
+  }
+}

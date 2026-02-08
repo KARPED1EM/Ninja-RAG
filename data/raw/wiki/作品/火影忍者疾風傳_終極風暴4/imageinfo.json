@@ -1,0 +1,83 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Hiroshi Matsuyama 20080704 Japan Expo 01.jpg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 4851313,
+            "width": 2308,
+            "height": 3468,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Hiroshi_Matsuyama_20080704_Japan_Expo_01.jpg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hiroshi_Matsuyama_20080704_Japan_Expo_01.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4343180",
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Edit-clear.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 5993,
+            "width": 48,
+            "height": 48,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edit-clear.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Edit-clear.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=441811",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Storm4gameplay.png",
+        "missing": true,
+        "imagerepository": ""
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "pageid": 4709392,
+        "ns": 6,
+        "title": "File:Naruto Storm 4.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 34644,
+            "width": 271,
+            "height": 368,
+            "url": "https://upload.wikimedia.org/wikipedia/zh/1/1d/Naruto_Storm_4.png",
+            "descriptionurl": "https://zh.wikipedia.org/wiki/File:Naruto_Storm_4.png",
+            "descriptionshorturl": "https://zh.wikipedia.org/w/index.php?curid=4709392",
+            "mime": "image/png"
+          }
+        ]
+      }
+    ]
+  }
+}

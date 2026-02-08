@@ -1,0 +1,16 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 6801690,
+        "ns": 0,
+        "title": "火影忍者遊戲列表",
+        "pageprops": {
+          "defaultsort": "NARUTO",
+          "wikibase_item": "Q3267168"
+        }
+      }
+    ]
+  }
+}

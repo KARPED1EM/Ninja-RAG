@@ -1,0 +1,24 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "火影忍者_木葉新傳_湯煙忍法帖",
+        "to": "火影忍者 木葉新傳 湯煙忍法帖"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 7785710,
+        "ns": 0,
+        "title": "火影忍者 木葉新傳 湯煙忍法帖",
+        "pageprops": {
+          "defaultsort": "Konoha Shinden: Steam Ninja Scrolls",
+          "page_image": "Konoha_Shinden_Steam_Ninja_Scrolls.jpg",
+          "unexpectedUnconnectedPage": "0"
+        }
+      }
+    ]
+  }
+}

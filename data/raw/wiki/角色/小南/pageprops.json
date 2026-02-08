@@ -1,0 +1,17 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 621132,
+        "ns": 0,
+        "title": "小南",
+        "pageprops": {
+          "defaultsort": "Konan",
+          "page_image": "Konan.JPG",
+          "wikibase_item": "Q128947"
+        }
+      }
+    ]
+  }
+}

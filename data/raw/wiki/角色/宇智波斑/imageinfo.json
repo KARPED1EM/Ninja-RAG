@@ -1,0 +1,113 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Jūbi eye.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 14095,
+            "width": 300,
+            "height": 300,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/J%C5%ABbi_eye.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:J%C5%ABbi_eye.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8018776",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Flag of Hong Kong.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 845,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_Hong_Kong.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=44636780",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Flag of the Republic of China.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 416,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Republic_of_China.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=436176",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Flag of Japan.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 209,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_Japan.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=343621",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "pageid": 3980855,
+        "ns": 6,
+        "title": "File:うちはマダラ.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 8126,
+            "width": 205,
+            "height": 115,
+            "url": "https://upload.wikimedia.org/wikipedia/zh/a/ad/%E3%81%86%E3%81%A1%E3%81%AF%E3%83%9E%E3%83%80%E3%83%A9.jpg",
+            "descriptionurl": "https://zh.wikipedia.org/wiki/File:%E3%81%86%E3%81%A1%E3%81%AF%E3%83%9E%E3%83%80%E3%83%A9.jpg",
+            "descriptionshorturl": "https://zh.wikipedia.org/w/index.php?curid=3980855",
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

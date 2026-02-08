@@ -1,0 +1,17 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 621127,
+        "ns": 0,
+        "title": "絕",
+        "pageprops": {
+          "defaultsort": "Zetsu",
+          "page_image": "Zetsu.JPG",
+          "wikibase_item": "Q712840"
+        }
+      }
+    ]
+  }
+}

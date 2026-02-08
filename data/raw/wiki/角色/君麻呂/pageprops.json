@@ -1,0 +1,17 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 642386,
+        "ns": 0,
+        "title": "君麻呂",
+        "pageprops": {
+          "defaultsort": "Kimimaro",
+          "page_image": "Kimimaro.jpg",
+          "wikibase_item": "Q718453"
+        }
+      }
+    ]
+  }
+}

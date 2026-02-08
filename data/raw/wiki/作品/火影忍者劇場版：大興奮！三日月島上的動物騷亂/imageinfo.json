@@ -1,0 +1,24 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Flag of Hong Kong.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 845,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_Hong_Kong.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=44636780",
+            "mime": "image/svg+xml"
+          }
+        ]
+      }
+    ]
+  }
+}

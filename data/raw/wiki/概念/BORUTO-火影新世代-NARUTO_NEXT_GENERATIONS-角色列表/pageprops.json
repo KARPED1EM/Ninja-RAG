@@ -1,0 +1,23 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "BORUTO-火影新世代-NARUTO_NEXT_GENERATIONS-角色列表",
+        "to": "BORUTO-火影新世代-NARUTO NEXT GENERATIONS-角色列表"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 6783345,
+        "ns": 0,
+        "title": "BORUTO-火影新世代-NARUTO NEXT GENERATIONS-角色列表",
+        "pageprops": {
+          "defaultsort": "Boruto: NARUTO NEXT GENERATIONS",
+          "wikibase_item": "Q85872639"
+        }
+      }
+    ]
+  }
+}

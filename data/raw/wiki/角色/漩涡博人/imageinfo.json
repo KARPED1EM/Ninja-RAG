@@ -1,0 +1,113 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Wikipe-tan face.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 55893,
+            "width": 440,
+            "height": 440,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Wikipe-tan_face.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Wikipe-tan_face.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3868923",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Amanda Celine Miller 2015.jpg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 1475789,
+            "width": 1730,
+            "height": 2423,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Amanda_Celine_Miller_2015.jpg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amanda_Celine_Miller_2015.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=38346538",
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Sanpei Yuko.jpg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 25931,
+            "width": 174,
+            "height": 244,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Sanpei_Yuko.jpg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sanpei_Yuko.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=25222335",
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Chinese conversion.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 1644,
+            "width": 512,
+            "height": 430,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Chinese_conversion.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chinese_conversion.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35587481",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "pageid": 8987155,
+        "ns": 6,
+        "title": "File:BorutoUzumakiVortex.jpeg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 120762,
+            "width": 316,
+            "height": 316,
+            "url": "https://upload.wikimedia.org/wikipedia/zh/2/23/BorutoUzumakiVortex.jpeg",
+            "descriptionurl": "https://zh.wikipedia.org/wiki/File:BorutoUzumakiVortex.jpeg",
+            "descriptionshorturl": "https://zh.wikipedia.org/w/index.php?curid=8987155",
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

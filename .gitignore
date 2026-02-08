@@ -6,7 +6,8 @@ uv.lock
 **/__pycache__/
 **/pytest_cache__/
 
-# local config/data
+# local config/data/log
+**/*.log
 data/storage/
 .env
 

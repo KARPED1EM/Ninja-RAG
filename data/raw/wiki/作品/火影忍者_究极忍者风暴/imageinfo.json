@@ -1,0 +1,112 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Star empty.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 167,
+            "width": 108,
+            "height": 110,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Star_empty.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Star_empty.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1842246",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Star half.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 4988,
+            "width": 108,
+            "height": 110,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Star_half.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Star_half.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1842243",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Star full.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 4001,
+            "width": 108,
+            "height": 110,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Star_full.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Star_full.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1842234",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "pageid": 5680500,
+        "ns": 6,
+        "title": "File:火影忍者：究极忍者风暴1-封面图片.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 56569,
+            "width": 256,
+            "height": 295,
+            "url": "https://upload.wikimedia.org/wikipedia/zh/1/10/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%EF%BC%9A%E7%A9%B6%E6%9E%81%E5%BF%8D%E8%80%85%E9%A3%8E%E6%9A%B41-%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87.jpg",
+            "descriptionurl": "https://zh.wikipedia.org/wiki/File:%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%EF%BC%9A%E7%A9%B6%E6%9E%81%E5%BF%8D%E8%80%85%E9%A3%8E%E6%9A%B41-%E5%B0%81%E9%9D%A2%E5%9B%BE%E7%89%87.jpg",
+            "descriptionshorturl": "https://zh.wikipedia.org/w/index.php?curid=5680500",
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 5680517,
+        "ns": 6,
+        "title": "File:Screenshot-Naruto Ultimate Ninja Storm 1.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 94887,
+            "width": 445,
+            "height": 224,
+            "url": "https://upload.wikimedia.org/wikipedia/zh/c/c3/Screenshot-Naruto_Ultimate_Ninja_Storm_1.png",
+            "descriptionurl": "https://zh.wikipedia.org/wiki/File:Screenshot-Naruto_Ultimate_Ninja_Storm_1.png",
+            "descriptionshorturl": "https://zh.wikipedia.org/w/index.php?curid=5680517",
+            "mime": "image/png"
+          }
+        ]
+      }
+    ]
+  }
+}

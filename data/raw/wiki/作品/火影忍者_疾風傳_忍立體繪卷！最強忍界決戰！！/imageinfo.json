@@ -1,0 +1,60 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Flag of Japan.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 209,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_Japan.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=343621",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Antistub.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 9762,
+            "width": 200,
+            "height": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Antistub.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Antistub.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4830045",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Tango-nosources.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 10848,
+            "width": 48,
+            "height": 48,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tango-nosources.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tango-nosources.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4103938",
+            "mime": "image/svg+xml"
+          }
+        ]
+      }
+    ]
+  }
+}

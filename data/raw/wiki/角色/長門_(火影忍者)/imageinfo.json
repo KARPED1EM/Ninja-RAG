@@ -1,0 +1,129 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Edit-clear.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 5993,
+            "width": 48,
+            "height": 48,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edit-clear.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Edit-clear.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=441811",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Antistub.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 9762,
+            "width": 200,
+            "height": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Antistub.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Antistub.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4830045",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Ambox important.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 6821,
+            "width": 40,
+            "height": 40,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4042543",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "pageid": 1246084,
+        "ns": 6,
+        "title": "File:Pain Rokudou.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 57516,
+            "width": 420,
+            "height": 237,
+            "url": "https://upload.wikimedia.org/wikipedia/zh/8/8e/Pain_Rokudou.png",
+            "descriptionurl": "https://zh.wikipedia.org/wiki/File:Pain_Rokudou.png",
+            "descriptionshorturl": "https://zh.wikipedia.org/w/index.php?curid=1246084",
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "pageid": 1464811,
+        "ns": 6,
+        "title": "File:Real Pein.JPG",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9096,
+            "width": 432,
+            "height": 236,
+            "url": "https://upload.wikimedia.org/wikipedia/zh/9/91/Real_Pein.JPG",
+            "descriptionurl": "https://zh.wikipedia.org/wiki/File:Real_Pein.JPG",
+            "descriptionshorturl": "https://zh.wikipedia.org/w/index.php?curid=1464811",
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 4098411,
+        "ns": 6,
+        "title": "File:ペイン.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 106855,
+            "width": 367,
+            "height": 278,
+            "url": "https://upload.wikimedia.org/wikipedia/zh/e/ed/%E3%83%9A%E3%82%A4%E3%83%B3.png",
+            "descriptionurl": "https://zh.wikipedia.org/wiki/File:%E3%83%9A%E3%82%A4%E3%83%B3.png",
+            "descriptionshorturl": "https://zh.wikipedia.org/w/index.php?curid=4098411",
+            "mime": "image/png"
+          }
+        ]
+      }
+    ]
+  }
+}
