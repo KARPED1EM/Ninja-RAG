@@ -1,0 +1,202 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:OOjs UI icon edit-ltr-progressive.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 349,
+            "width": 20,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55041643",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Commons-logo.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 932,
+            "width": 1024,
+            "height": 1376,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Commons-logo.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Commons-logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=317966",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Flag of the People's Republic of China.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 563,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_People%27s_Republic_of_China.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=436175",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Flag of the Republic of China.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 416,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Republic_of_China.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=436176",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Flag of Hong Kong.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 845,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_Hong_Kong.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=44636780",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Flag of Japan.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 209,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_Japan.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=343621",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Translation to zh arrow.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 963,
+            "width": 60,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/da/Translation_to_zh_arrow.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Translation_to_zh_arrow.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1611779",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Lock-green.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 432,
+            "width": 512,
+            "height": 813,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Lock-green.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lock-green.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=49933556",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "pageid": 495153,
+        "ns": 6,
+        "title": "File:NarutoTeam7.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 20525,
+            "width": 365,
+            "height": 273,
+            "url": "https://upload.wikimedia.org/wikipedia/zh/6/66/NarutoTeam7.jpg",
+            "descriptionurl": "https://zh.wikipedia.org/wiki/File:NarutoTeam7.jpg",
+            "descriptionshorturl": "https://zh.wikipedia.org/w/index.php?curid=495153",
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 1468555,
+        "ns": 6,
+        "title": "File:Kakashi.JPG",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 16722,
+            "width": 404,
+            "height": 253,
+            "url": "https://upload.wikimedia.org/wikipedia/zh/9/9f/Kakashi.JPG",
+            "descriptionurl": "https://zh.wikipedia.org/wiki/File:Kakashi.JPG",
+            "descriptionshorturl": "https://zh.wikipedia.org/w/index.php?curid=1468555",
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

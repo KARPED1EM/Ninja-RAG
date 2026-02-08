@@ -1,0 +1,17 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 289382,
+        "ns": 0,
+        "title": "春野櫻",
+        "pageprops": {
+          "defaultsort": "Haruno Sakura",
+          "page_image": "Sakura_20160925.jpg",
+          "wikibase_item": "Q203240"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Edit-clear.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 5993,
+            "width": 48,
+            "height": 48,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Edit-clear.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Edit-clear.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=441811",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Tango-nosources.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 10848,
+            "width": 48,
+            "height": 48,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tango-nosources.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tango-nosources.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4103938",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Text document with red question mark.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 14647,
+            "width": 48,
+            "height": 48,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Text_document_with_red_question_mark.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Text_document_with_red_question_mark.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2544877",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Ambox important.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 6821,
+            "width": 40,
+            "height": 40,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4042543",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      }
+    ]
+  }
+}

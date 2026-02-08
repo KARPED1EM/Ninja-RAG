@@ -1,0 +1,16 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 129820,
+        "ns": 0,
+        "title": "火影忍者角色列表",
+        "pageprops": {
+          "defaultsort": "Naruto",
+          "wikibase_item": "Q718482"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Uzushiogakure Symbol.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 3821,
+            "width": 100,
+            "height": 100,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Uzushiogakure_Symbol.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Uzushiogakure_Symbol.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10801830",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Amegakure Symbol.png",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 1270,
+            "width": 30,
+            "height": 26,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Amegakure_Symbol.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Amegakure_Symbol.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=34743415",
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Naruto Sunagakure.jpg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 1247,
+            "width": 31,
+            "height": 44,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Naruto_Sunagakure.jpg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Naruto_Sunagakure.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=69761654",
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Naruto World Map.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 218561,
+            "width": 1500,
+            "height": 882,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Naruto_World_Map.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Naruto_World_Map.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7696339",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Tango-nosources.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 10848,
+            "width": 48,
+            "height": 48,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tango-nosources.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tango-nosources.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4103938",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Antistub.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 9762,
+            "width": 200,
+            "height": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Antistub.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Antistub.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4830045",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Ambox important.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 6821,
+            "width": 40,
+            "height": 40,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4042543",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "pageid": 624936,
+        "ns": 6,
+        "title": "File:Kemurigakure no Sato.gif",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1043,
+            "width": 30,
+            "height": 27,
+            "url": "https://upload.wikimedia.org/wikipedia/zh/b/b4/Kemurigakure_no_Sato.gif",
+            "descriptionurl": "https://zh.wikipedia.org/wiki/File:Kemurigakure_no_Sato.gif",
+            "descriptionshorturl": "https://zh.wikipedia.org/w/index.php?curid=624936",
+            "mime": "image/gif"
+          }
+        ]
+      }
+    ]
+  }
+}

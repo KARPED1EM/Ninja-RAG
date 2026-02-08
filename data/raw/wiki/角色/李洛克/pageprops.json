@@ -1,0 +1,17 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 528616,
+        "ns": 0,
+        "title": "李洛克",
+        "pageprops": {
+          "defaultsort": "Rock Lee",
+          "page_image": "Rocklee2.jpg",
+          "wikibase_item": "Q52852"
+        }
+      }
+    ]
+  }
+}

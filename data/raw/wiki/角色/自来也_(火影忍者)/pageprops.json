@@ -1,0 +1,24 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "自来也_(火影忍者)",
+        "to": "自来也 (火影忍者)"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 431198,
+        "ns": 0,
+        "title": "自来也 (火影忍者)",
+        "pageprops": {
+          "defaultsort": "Jiraiya",
+          "page_image": "自来也.jpg",
+          "wikibase_item": "Q912184"
+        }
+      }
+    ]
+  }
+}
