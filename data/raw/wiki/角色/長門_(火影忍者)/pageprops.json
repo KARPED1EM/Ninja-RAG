@@ -1,0 +1,24 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "長門_(火影忍者)",
+        "to": "長門 (火影忍者)"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 967330,
+        "ns": 0,
+        "title": "長門 (火影忍者)",
+        "pageprops": {
+          "defaultsort": "Pein",
+          "page_image": "ペイン.png",
+          "wikibase_item": "Q718509"
+        }
+      }
+    ]
+  }
+}

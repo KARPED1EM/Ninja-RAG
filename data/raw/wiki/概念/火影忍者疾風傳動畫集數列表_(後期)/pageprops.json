@@ -1,0 +1,22 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "火影忍者疾風傳動畫集數列表_(後期)",
+        "to": "火影忍者疾風傳動畫集數列表 (後期)"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 8362469,
+        "ns": 0,
+        "title": "火影忍者疾風傳動畫集數列表 (後期)",
+        "pageprops": {
+          "unexpectedUnconnectedPage": "0"
+        }
+      }
+    ]
+  }
+}

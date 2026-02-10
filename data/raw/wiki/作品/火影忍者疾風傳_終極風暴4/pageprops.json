@@ -1,0 +1,24 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "火影忍者疾風傳_終極風暴4",
+        "to": "火影忍者疾風傳 終極風暴4"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 4709359,
+        "ns": 0,
+        "title": "火影忍者疾風傳 終極風暴4",
+        "pageprops": {
+          "defaultsort": "Naruto Shippuden Ultimate Ninja Storm 4",
+          "page_image": "Naruto_Storm_4.png",
+          "wikibase_item": "Q18655006"
+        }
+      }
+    ]
+  }
+}

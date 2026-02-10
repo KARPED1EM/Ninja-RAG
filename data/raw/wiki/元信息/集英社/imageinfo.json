@@ -1,0 +1,114 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Lock-gray-alt-2.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 516,
+            "width": 512,
+            "height": 813,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Lock-gray-alt-2.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lock-gray-alt-2.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=53508592",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Commons-logo.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 932,
+            "width": 1024,
+            "height": 1376,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Commons-logo.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Commons-logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=317966",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:OOjs UI icon edit-ltr-progressive.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 349,
+            "width": 20,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55041643",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Flag of Japan.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 209,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_Japan.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=343621",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Shueisha Jimbocho Building 20230919.jpg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 3322277,
+            "width": 2656,
+            "height": 3719,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Shueisha_Jimbocho_Building_20230919.jpg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Shueisha_Jimbocho_Building_20230919.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=137863191",
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Shūeisha logo.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 5164,
+            "width": 138,
+            "height": 40,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/Sh%C5%ABeisha_logo.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Sh%C5%ABeisha_logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=108695591",
+            "mime": "image/svg+xml"
+          }
+        ]
+      }
+    ]
+  }
+}

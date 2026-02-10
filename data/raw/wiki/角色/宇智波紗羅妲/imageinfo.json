@@ -1,0 +1,149 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Flag of Hong Kong.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 845,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_Hong_Kong.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=44636780",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Flag of the Republic of China.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 416,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Republic_of_China.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=436176",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Flag of the People's Republic of China.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 563,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_People%27s_Republic_of_China.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=436175",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Flag of the United States.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 823,
+            "width": 1235,
+            "height": 650,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=318418",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Flag of Japan.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 209,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_Japan.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=343621",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Chinese conversion.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 1644,
+            "width": 512,
+            "height": 430,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Chinese_conversion.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chinese_conversion.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=35587481",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "pageid": 5892866,
+        "ns": 6,
+        "title": "File:紗羅妲參加中忍考試第三次試驗.png",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 136505,
+            "width": 430,
+            "height": 232,
+            "url": "https://upload.wikimedia.org/wikipedia/zh/b/bc/%E7%B4%97%E7%BE%85%E5%A6%B2%E5%8F%83%E5%8A%A0%E4%B8%AD%E5%BF%8D%E8%80%83%E8%A9%A6%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%A9%A6%E9%A9%97.png",
+            "descriptionurl": "https://zh.wikipedia.org/wiki/File:%E7%B4%97%E7%BE%85%E5%A6%B2%E5%8F%83%E5%8A%A0%E4%B8%AD%E5%BF%8D%E8%80%83%E8%A9%A6%E7%AC%AC%E4%B8%89%E6%AC%A1%E8%A9%A6%E9%A9%97.png",
+            "descriptionshorturl": "https://zh.wikipedia.org/w/index.php?curid=5892866",
+            "mime": "image/png"
+          }
+        ]
+      }
+    ]
+  }
+}

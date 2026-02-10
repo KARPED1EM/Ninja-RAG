@@ -1,0 +1,24 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "晓_(火影忍者)",
+        "to": "晓 (火影忍者)"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 448405,
+        "ns": 0,
+        "title": "晓 (火影忍者)",
+        "pageprops": {
+          "defaultsort": "Akatsuki",
+          "page_image_free": "Akatsuki_clouds_shiny_tiles_texture.png",
+          "wikibase_item": "Q308939"
+        }
+      }
+    ]
+  }
+}

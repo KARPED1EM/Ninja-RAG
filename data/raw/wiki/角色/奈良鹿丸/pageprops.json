@@ -1,0 +1,17 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 429602,
+        "ns": 0,
+        "title": "奈良鹿丸",
+        "pageprops": {
+          "defaultsort": "Nara Shikamaru",
+          "page_image": "Shikamaru3qn.jpg",
+          "wikibase_item": "Q30334"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 520498,
+        "ns": 0,
+        "title": "大蛇丸",
+        "pageprops": {
+          "defaultsort": "Orochimaru",
+          "page_image": "Orochimaru,_Screenshot_(manga).jpg",
+          "wikibase_item": "Q1744341"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "火影忍者_佐助烈傳_宇智波的後裔與天球的星塵",
+        "to": "火影忍者 佐助烈傳 宇智波的後裔與天球的星塵"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 7785711,
+        "ns": 0,
+        "title": "火影忍者 佐助烈傳 宇智波的後裔與天球的星塵",
+        "pageprops": {
+          "defaultsort": "Sasuke Retsuden: The Uchiha Descendants and the Heavenly Stardust",
+          "page_image": "Sasuke_Retsuden.jpg",
+          "unexpectedUnconnectedPage": "0"
+        }
+      }
+    ]
+  }
+}

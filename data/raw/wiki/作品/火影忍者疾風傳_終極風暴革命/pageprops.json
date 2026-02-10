@@ -1,0 +1,23 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "火影忍者疾風傳_終極風暴革命",
+        "to": "火影忍者疾風傳 終極風暴革命"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 7215644,
+        "ns": 0,
+        "title": "火影忍者疾風傳 終極風暴革命",
+        "pageprops": {
+          "page_image": "NarutoStormRevolutionCover.jpg",
+          "wikibase_item": "Q15268497"
+        }
+      }
+    ]
+  }
+}

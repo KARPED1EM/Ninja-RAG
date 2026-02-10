@@ -1,0 +1,23 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "redirects": [
+      {
+        "from": "漩涡鸣人",
+        "to": "漩渦鳴人"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 280325,
+        "ns": 0,
+        "title": "漩渦鳴人",
+        "pageprops": {
+          "defaultsort": "Uzumaki, Naruto",
+          "page_image": "Naruto_20th.png",
+          "wikibase_item": "Q931"
+        }
+      }
+    ]
+  }
+}

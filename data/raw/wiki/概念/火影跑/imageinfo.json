@@ -1,0 +1,135 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Commons-logo.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 932,
+            "width": 1024,
+            "height": 1376,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Commons-logo.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Commons-logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=317966",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Searchtool.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 5677,
+            "width": 512,
+            "height": 512,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Searchtool.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Searchtool.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=739837",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Naruto Run.gif",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 15138078,
+            "width": 600,
+            "height": 1067,
+            "duration": 4.999999999999998,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Naruto_Run.gif",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Naruto_Run.gif",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=80482551",
+            "mime": "image/gif"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Saint run 2026-01-18.jpg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 122923,
+            "width": 1177,
+            "height": 883,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Saint_run_2026-01-18.jpg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Saint_run_2026-01-18.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=182030748",
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:8 Man run 2026-01-18.gif",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 200767,
+            "width": 656,
+            "height": 656,
+            "duration": 0.36,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/8_Man_run_2026-01-18.gif",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:8_Man_run_2026-01-18.gif",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=182030695",
+            "mime": "image/gif"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Naruto run 2026-01-18.gif",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 2101427,
+            "width": 667,
+            "height": 667,
+            "duration": 0.7200000000000002,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Naruto_run_2026-01-18.gif",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Naruto_run_2026-01-18.gif",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=182030527",
+            "mime": "image/gif"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Flag of the Republic of China.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 416,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Republic_of_China.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=436176",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Flag of Japan.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 209,
+            "width": 900,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Flag_of_Japan.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=343621",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "pageid": 7785724,
+        "ns": 6,
+        "title": "File:Sasuke Retsuden.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 54007,
+            "width": 252,
+            "height": 396,
+            "url": "https://upload.wikimedia.org/wikipedia/zh/c/c2/Sasuke_Retsuden.jpg",
+            "descriptionurl": "https://zh.wikipedia.org/wiki/File:Sasuke_Retsuden.jpg",
+            "descriptionshorturl": "https://zh.wikipedia.org/w/index.php?curid=7785724",
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

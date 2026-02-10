@@ -1,0 +1,78 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Symbole Uchiwa.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 7470,
+            "width": 500,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Symbole_Uchiwa.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Symbole_Uchiwa.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=7720511",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Text document with red question mark.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 14647,
+            "width": 48,
+            "height": 48,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Text_document_with_red_question_mark.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Text_document_with_red_question_mark.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2544877",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Ambox important.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 6821,
+            "width": 40,
+            "height": 40,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4042543",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      }
+    ]
+  }
+}

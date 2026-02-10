@@ -1,0 +1,22 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "火之国_(火影忍者)",
+        "to": "火之国 (火影忍者)"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 508169,
+        "ns": 0,
+        "title": "火之国 (火影忍者)",
+        "pageprops": {
+          "wikibase_item": "Q712357"
+        }
+      }
+    ]
+  }
+}

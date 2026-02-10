@@ -1,0 +1,22 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "火影忍者疾風傳動畫集數列表_(前期)",
+        "to": "火影忍者疾風傳動畫集數列表 (前期)"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 528090,
+        "ns": 0,
+        "title": "火影忍者疾風傳動畫集數列表 (前期)",
+        "pageprops": {
+          "wikibase_item": "Q21882811"
+        }
+      }
+    ]
+  }
+}

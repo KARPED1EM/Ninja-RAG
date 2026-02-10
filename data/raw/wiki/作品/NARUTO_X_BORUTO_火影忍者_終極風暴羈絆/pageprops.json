@@ -1,0 +1,22 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "NARUTO_X_BORUTO_火影忍者_終極風暴羈絆",
+        "to": "NARUTO X BORUTO 火影忍者 終極風暴羈絆"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 8698553,
+        "ns": 0,
+        "title": "NARUTO X BORUTO 火影忍者 終極風暴羈絆",
+        "pageprops": {
+          "wikibase_item": "Q117839869"
+        }
+      }
+    ]
+  }
+}

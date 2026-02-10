@@ -1,0 +1,501 @@
+{
+  "warnings": {
+    "main": {
+      "warnings": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+    },
+    "parse": {
+      "warnings": "\"prop=sections\" is deprecated since MediaWiki 1.46. Use \"prop=tocdata\" instead."
+    }
+  },
+  "parse": {
+    "title": "Talk:木叶村角色列表",
+    "pageid": 1225424,
+    "redirects": [],
+    "text": "<div class=\"mw-content-ltr mw-parser-output\" lang=\"zh\" dir=\"ltr\"><style data-mw-deduplicate=\"TemplateStyles:r83732962\">.mw-parser-output .tmbox{margin:4px 0;border-collapse:collapse;border:1px solid #c0c090;background-color:#f8eaba;box-sizing:border-box}.mw-parser-output .tmbox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .tmbox-speedy{border:2px solid #b32424;background-color:#fee7e6}.mw-parser-output .tmbox-delete{border:2px solid #b32424}.mw-parser-output .tmbox-content{border:2px solid #f28500}.mw-parser-output .tmbox-style{border:2px solid #fc3}.mw-parser-output .tmbox-move{border:2px solid #9932cc}.mw-parser-output .tmbox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .tmbox .mbox-image{border:none;padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .tmbox .mbox-imageright{border:none;padding:2px 0.9em 2px 0;text-align:center}.mw-parser-output .tmbox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .tmbox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .tmbox{margin:4px 10%}.mw-parser-output .tmbox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .tmbox{background-color:#2e2505}html.skin-theme-clientpref-night .mw-parser-output .tmbox-speedy{background-color:#310402}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .tmbox{background-color:#2e2505}html.skin-theme-clientpref-os .mw-parser-output .tmbox-speedy{background-color:#310402}}body.skin--responsive .mw-parser-output table.tmbox img{max-width:none!important}</style>\n<table class=\"plainlinks tmbox tmbox-notice\">\n\n<tbody><tr>\n<td class=\"mbox-image\"><span typeof=\"mw:File\"><span><img src=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Clipboard.svg/60px-Clipboard.svg.png\" decoding=\"async\" width=\"50\" height=\"50\" class=\"mw-file-element\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Clipboard.svg/120px-Clipboard.svg.png 1.5x\" data-file-width=\"48\" data-file-height=\"48\"></span></span>\n</td>\n<td class=\"mbox-text\">\n<p>本頁面曾於2025年6月2日被送交<a href=\"/wiki/Wikipedia:%E5%88%A0%E9%99%A4%E6%96%B9%E9%92%88#存废讨论\" class=\"mw-redirect\" title=\"Wikipedia:删除方针\">存廢討論</a>，<b><a href=\"/wiki/Wikipedia:%E9%A0%81%E9%9D%A2%E5%AD%98%E5%BB%A2%E8%A8%8E%E8%AB%96/%E8%A8%98%E9%8C%84/2025/06/02#木叶村角色列表\" title=\"Wikipedia:頁面存廢討論/記錄/2025/06/02\">讨论结果</a></b>為<b>併入</b>其他位置。\n</p>\n</td></tr></tbody></table>\n<style data-mw-deduplicate=\"TemplateStyles:r88027378\">.mw-parser-output .mbox-text,.mw-parser-output .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .mbox-image{border:none;padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .mbox-imageright{border:none;padding:2px 0.9em 2px 0;text-align:center}.mw-parser-output .mbox-empty-cell{border:none;padding:0;width:1px}</style><link rel=\"mw-deduplicated-inline-style\" href=\"mw-data:TemplateStyles:r83732962\"><table class=\"plainlinks tmbox tmbox-notice\" role=\"presentation\"><tbody><tr><td class=\"mbox-image\"><span typeof=\"mw:File\"><span><img alt=\"\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/60px-Merge-arrow.svg.png\" decoding=\"async\" width=\"50\" height=\"20\" class=\"mw-file-element\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Merge-arrow.svg/120px-Merge-arrow.svg.png 1.5x\" data-file-width=\"50\" data-file-height=\"20\"></span></span></td><td class=\"mbox-text\">页面<a class=\"external text\" href=\"https://zh.wikipedia.org/w/index.php?title=%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8&amp;redirect=no\">木叶村角色列表</a>的內容已于2025年6月19日<a href=\"/wiki/Wikipedia:%E5%90%88%E5%B9%B6\" class=\"mw-redirect\" title=\"Wikipedia:合并\">并入</a>且重定向至<a href=\"/wiki/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8\" title=\"火影忍者角色列表\">火影忍者角色列表</a>。可在并入源的<a class=\"external text\" href=\"https://zh.wikipedia.org/w/index.php?title=%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8&amp;action=history\">历史页面</a>查阅其贡献历史和旧版本。</td></tr></tbody></table>\n<meta property=\"mw:PageProp/toc\">\n<div class=\"mw-heading mw-heading2 ext-discussiontools-init-section\"><h2 id=\"第六代火影的疑問\" data-mw-thread-id=\"h-第六代火影的疑問-2010-01-15T04:45:00.000Z\"><span id=\".E7.AC.AC.E5.85.AD.E4.BB.A3.E7.81.AB.E5.BD.B1.E7.9A.84.E7.96.91.E5.95.8F\"></span><span data-mw-comment-start=\"\" id=\"h-第六代火影的疑問-2010-01-15T04:45:00.000Z\"></span>第六代火影的疑問<span data-mw-comment-end=\"h-第六代火影的疑問-2010-01-15T04:45:00.000Z\"></span></h2><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Talk:%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8&amp;action=edit&amp;section=1\" title=\"编辑章节：第六代火影的疑問\"><span>编辑</span></a><span class=\"mw-editsection-bracket\">]</span></span><div class=\"ext-discussiontools-init-section-bar\"><div class=\"ext-discussiontools-init-section-metadata\"><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-timestampLabel'>最新留言：<a href=\"#c-219.87.148.219-2010-01-15T04:45:00.000Z-第六代火影的疑問\">16年前</a></span><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-commentCountLabel'>1条留言</span><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-authorCountLabel'>1人参与讨论</span></div><div class=\"ext-discussiontools-init-section-actions\"></div></div></div>\n<p><span data-mw-comment-start=\"\" id=\"c-219.87.148.219-2010-01-15T04:45:00.000Z-第六代火影的疑問\"></span>雖然，火之國的大名任命團藏為第六代火影了，之後卡卡西也說「此事還要經過上忍們的信任投票才行！」\n之後的五影會談之中，曉的成員突然殺進會場，此時團藏卻不見人影，經過此事，其餘四影認為團藏已經不能夠信任，遂託風影轉達木葉忍者村的一切指示將聽卡卡西的命令行事，再說，團藏也沒正式的就任儀式！所以，第六代火影的候補人選有團藏、卡卡西才是。<span data-mw-comment-sig=\"c-219.87.148.219-2010-01-15T04:45:00.000Z-第六代火影的疑問\"></span><a href=\"/wiki/Special:Contributions/219.87.148.219\" title=\"Special:Contributions/219.87.148.219\">219.87.148.219</a> (<a href=\"/w/index.php?title=User_talk:219.87.148.219&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User talk:219.87.148.219（页面不存在）\">留言</a>) <a href=\"https://zh.wikipedia.org/wiki/Talk:%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8#c-219.87.148.219-2010-01-15T04:45:00.000Z-第六代火影的疑問\" class=\"ext-discussiontools-init-timestamplink\" title=\"16年前\">2010年1月15日 (五) 04:45 (UTC)</a><span class=\"ext-discussiontools-init-replylink-buttons\" data-mw-thread-id=\"c-219.87.148.219-2010-01-15T04:45:00.000Z-第六代火影的疑問\"><span id='ooui-php-1' class='ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-iconElement oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{\"_\":\"OO.ui.ButtonWidget\",\"rel\":[\"nofollow\"],\"framed\":false,\"icon\":\"share\",\"label\":\"\\u56de\\u590d\",\"flags\":[\"progressive\"],\"classes\":[\"ext-discussiontools-init-replybutton\"]}'><a role='button' tabindex='0' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-icon-share oo-ui-image-progressive'></span><span class='oo-ui-labelElement-label'>回复</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive'></span></a></span></span><span data-mw-comment-end=\"c-219.87.148.219-2010-01-15T04:45:00.000Z-第六代火影的疑問\"></span>\n</p>\n<div class=\"mw-heading mw-heading2 ext-discussiontools-init-section\"><h2 id=\"第六代火影是鳴人？\" data-mw-thread-id=\"h-第六代火影是鳴人？\"><span id=\".E7.AC.AC.E5.85.AD.E4.BB.A3.E7.81.AB.E5.BD.B1.E6.98.AF.E9.B3.B4.E4.BA.BA.EF.BC.9F\"></span><span data-mw-comment-start=\"\" id=\"h-第六代火影是鳴人？\"></span>第六代火影是鳴人？<span data-mw-comment-end=\"h-第六代火影是鳴人？\"></span></h2><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Talk:%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8&amp;action=edit&amp;section=2\" title=\"编辑章节：第六代火影是鳴人？\"><span>编辑</span></a><span class=\"mw-editsection-bracket\">]</span></span></div>\n<p>火影忍者第451話中，火之國的大名已經任命團藏為第六代火影了\n這裡第六代火影居然是鳴人？請問這是怎麼一回事？\n請儘快修正，OK？<a href=\"/wiki/User_talk:Ypzrgy1225\" title=\"User talk:Ypzrgy1225\">首醫女張德</a> 15:50 2009年06月21日\n</p>\n<div class=\"mw-heading mw-heading2 ext-discussiontools-init-section\"><h2 id=\"Untitled\" data-mw-thread-id=\"h-Untitled-2010-02-27T05:03:00.000Z\"><span data-mw-comment-start=\"\" id=\"h-Untitled-2010-02-27T05:03:00.000Z\"></span>Untitled<span data-mw-comment-end=\"h-Untitled-2010-02-27T05:03:00.000Z\"></span></h2><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Talk:%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8&amp;action=edit&amp;section=3\" title=\"编辑章节：Untitled\"><span>编辑</span></a><span class=\"mw-editsection-bracket\">]</span></span><div class=\"ext-discussiontools-init-section-bar\"><div class=\"ext-discussiontools-init-section-metadata\"><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-timestampLabel'>最新留言：<a href=\"#c-Erty9774-2010-02-27T05:03:00.000Z-Untitled\">15年前</a></span><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-commentCountLabel'>1条留言</span><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-authorCountLabel'>1人参与讨论</span></div><div class=\"ext-discussiontools-init-section-actions\"></div></div></div>\n<p><span data-mw-comment-sig=\"c-Erty9774-2010-02-27T05:03:00.000Z-Untitled\"></span><a href=\"/wiki/User:Erty9774\" title=\"User:Erty9774\"><span data-mw-comment-start=\"\" id=\"c-Erty9774-2010-02-27T05:03:00.000Z-Untitled\"></span>Erty9774</a> (<a href=\"/wiki/User_talk:Erty9774\" title=\"User talk:Erty9774\">留言</a>) <a href=\"https://zh.wikipedia.org/wiki/Talk:%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8#c-Erty9774-2010-02-27T05:03:00.000Z-Untitled\" class=\"ext-discussiontools-init-timestamplink\" title=\"15年前\">2010年2月27日 (六) 05:03 (UTC)</a>\n我不知道如何連到子頁面\n所以我直接連到總頁\n如果有人知道\n請幫我謝謝<span class=\"ext-discussiontools-init-replylink-buttons\" data-mw-thread-id=\"c-Erty9774-2010-02-27T05:03:00.000Z-Untitled\"><span id='ooui-php-2' class='ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-iconElement oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{\"_\":\"OO.ui.ButtonWidget\",\"rel\":[\"nofollow\"],\"framed\":false,\"icon\":\"share\",\"label\":\"\\u56de\\u590d\",\"flags\":[\"progressive\"],\"classes\":[\"ext-discussiontools-init-replybutton\"]}'><a role='button' tabindex='0' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-icon-share oo-ui-image-progressive'></span><span class='oo-ui-labelElement-label'>回复</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive'></span></a></span></span><span data-mw-comment-end=\"c-Erty9774-2010-02-27T05:03:00.000Z-Untitled\"></span>\n</p>\n<div class=\"mw-heading mw-heading2 ext-discussiontools-init-section\"><h2 id=\"團藏是個偉人??\" data-mw-thread-id=\"h-團藏是個偉人??-2010-06-10T21:07:00.000Z\"><span id=\".E5.9C.98.E8.97.8F.E6.98.AF.E5.80.8B.E5.81.89.E4.BA.BA.3F.3F\"></span><span data-mw-comment-start=\"\" id=\"h-團藏是個偉人??-2010-06-10T21:07:00.000Z\"></span>團藏是個偉人??<span data-mw-comment-end=\"h-團藏是個偉人??-2010-06-10T21:07:00.000Z\"></span></h2><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Talk:%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8&amp;action=edit&amp;section=4\" title=\"编辑章节：團藏是個偉人??\"><span>编辑</span></a><span class=\"mw-editsection-bracket\">]</span></span><div class=\"ext-discussiontools-init-section-bar\"><div class=\"ext-discussiontools-init-section-metadata\"><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-timestampLabel'>最新留言：<a href=\"#c-118.168.136.4-2010-06-10T21:07:00.000Z-團藏是個偉人??\">15年前</a></span><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-commentCountLabel'>1条留言</span><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-authorCountLabel'>1人参与讨论</span></div><div class=\"ext-discussiontools-init-section-actions\"></div></div></div>\n<p><span data-mw-comment-start=\"\" id=\"c-118.168.136.4-2010-06-10T21:07:00.000Z-團藏是個偉人??\"></span>這個人掌控暗部之後，下令屠殺宇智波一族、殺害理想主義者彌彥並瓦解其組織、在培因來襲時躲起來棄國難於不顧，這種以私壞公的行為就叫做\"軍國主義\"。我不明白\n為什麼會有人稱呼他為\"偉人\"，他臨死前使用了裡.四像封印之術要拉著佐助和班同歸於盡，根本的原因是因為這兩個人\"殺了他\"呀，如果他是\"為了木葉\"的話，就不會躲在\n地底看著培因把木葉打爆了。<span data-mw-comment-sig=\"c-118.168.136.4-2010-06-10T21:07:00.000Z-團藏是個偉人??\"></span><a href=\"/wiki/Special:Contributions/118.168.136.4\" title=\"Special:Contributions/118.168.136.4\">118.168.136.4</a> (<a href=\"/w/index.php?title=User_talk:118.168.136.4&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User talk:118.168.136.4（页面不存在）\">留言</a>) <a href=\"https://zh.wikipedia.org/wiki/Talk:%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8#c-118.168.136.4-2010-06-10T21:07:00.000Z-團藏是個偉人??\" class=\"ext-discussiontools-init-timestamplink\" title=\"15年前\">2010年6月10日 (四) 21:07 (UTC)</a><span class=\"ext-discussiontools-init-replylink-buttons\" data-mw-thread-id=\"c-118.168.136.4-2010-06-10T21:07:00.000Z-團藏是個偉人??\"><span id='ooui-php-3' class='ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-iconElement oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{\"_\":\"OO.ui.ButtonWidget\",\"rel\":[\"nofollow\"],\"framed\":false,\"icon\":\"share\",\"label\":\"\\u56de\\u590d\",\"flags\":[\"progressive\"],\"classes\":[\"ext-discussiontools-init-replybutton\"]}'><a role='button' tabindex='0' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-icon-share oo-ui-image-progressive'></span><span class='oo-ui-labelElement-label'>回复</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive'></span></a></span></span><span data-mw-comment-end=\"c-118.168.136.4-2010-06-10T21:07:00.000Z-團藏是個偉人??\"></span>\n</p>\n<div class=\"mw-heading mw-heading2 ext-discussiontools-init-section\"><h2 id=\"初代、斑和九尾的問題\" data-mw-thread-id=\"h-初代、斑和九尾的問題-2010-08-07T04:57:00.000Z\"><span id=\".E5.88.9D.E4.BB.A3.E3.80.81.E6.96.91.E5.92.8C.E4.B9.9D.E5.B0.BE.E7.9A.84.E5.95.8F.E9.A1.8C\"></span><span data-mw-comment-start=\"\" id=\"h-初代、斑和九尾的問題-2010-08-07T04:57:00.000Z\"></span>初代、斑和九尾的問題<span data-mw-comment-end=\"h-初代、斑和九尾的問題-2010-08-07T04:57:00.000Z\"></span></h2><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Talk:%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8&amp;action=edit&amp;section=5\" title=\"编辑章节：初代、斑和九尾的問題\"><span>编辑</span></a><span class=\"mw-editsection-bracket\">]</span></span><div class=\"ext-discussiontools-init-section-bar\"><div class=\"ext-discussiontools-init-section-metadata\"><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-timestampLabel'>最新留言：<a href=\"#c-KevinSET-2013-01-24T01:14:00.000Z-Cshk108-2010-08-07T04:57:00.000Z\">13年前</a></span><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-commentCountLabel'>2条留言</span><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-authorCountLabel'>2人参与讨论</span></div><div class=\"ext-discussiontools-init-section-actions\"></div></div></div>\n<p><span data-mw-comment-start=\"\" id=\"c-Cshk108-2010-08-07T04:57:00.000Z-初代、斑和九尾的問題\"></span>根據漩渦奇奈的講法,初代九尾人柱力是初代妻子漩渦水戶。在初代火影與宇智波斑的最後對決,水戶是初代陣營,如此就不可能像初代火影的介紹中,斑利用九尾對付初代吧!<span data-mw-comment-sig=\"c-Cshk108-2010-08-07T04:57:00.000Z-初代、斑和九尾的問題\"></span><a href=\"/w/index.php?title=User:Cshk108&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Cshk108（页面不存在）\">Cshk108</a> (<a href=\"/wiki/User_talk:Cshk108\" title=\"User talk:Cshk108\">留言</a>) <a href=\"https://zh.wikipedia.org/wiki/Talk:%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8#c-Cshk108-2010-08-07T04:57:00.000Z-初代、斑和九尾的問題\" class=\"ext-discussiontools-init-timestamplink\" title=\"15年前\">2010年8月7日 (六) 04:57 (UTC)</a><span class=\"ext-discussiontools-init-replylink-buttons\" data-mw-thread-id=\"c-Cshk108-2010-08-07T04:57:00.000Z-初代、斑和九尾的問題\"><span id='ooui-php-4' class='ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-iconElement oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{\"_\":\"OO.ui.ButtonWidget\",\"rel\":[\"nofollow\"],\"framed\":false,\"icon\":\"share\",\"label\":\"\\u56de\\u590d\",\"flags\":[\"progressive\"],\"classes\":[\"ext-discussiontools-init-replybutton\"]}'><a role='button' tabindex='0' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-icon-share oo-ui-image-progressive'></span><span class='oo-ui-labelElement-label'>回复</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive'></span></a></span></span><span data-mw-comment-end=\"c-Cshk108-2010-08-07T04:57:00.000Z-初代、斑和九尾的問題\"></span>\n</p>\n<dl><dd><span data-mw-comment-start=\"\" id=\"c-KevinSET-2013-01-24T01:14:00.000Z-Cshk108-2010-08-07T04:57:00.000Z\"></span>利用九尾不代表一定要透過人柱力,根據568話,斑曾控制九尾,初代火影則認為九尾力量過大,不能讓牠自由行動,可以推論是初代火影打敗斑之後,九尾才被封印在人的體內,399話中亦有斑利用九尾對抗初代火影的敘述,607話斑則說過出帶火影利用木龍束縛了他的九尾<span data-mw-comment-sig=\"c-KevinSET-2013-01-24T01:14:00.000Z-Cshk108-2010-08-07T04:57:00.000Z\"></span><a href=\"/w/index.php?title=User:KevinSET&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:KevinSET（页面不存在）\">KevinSET</a>（<a href=\"/wiki/User_talk:KevinSET\" class=\"mw-redirect\" title=\"User talk:KevinSET\">留言</a>） <a href=\"https://zh.wikipedia.org/wiki/Talk:%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8#c-KevinSET-2013-01-24T01:14:00.000Z-Cshk108-2010-08-07T04:57:00.000Z\" class=\"ext-discussiontools-init-timestamplink\" title=\"13年前\">2013年1月24日 (四) 01:14 (UTC)</a><span class=\"ext-discussiontools-init-replylink-buttons\" data-mw-thread-id=\"c-KevinSET-2013-01-24T01:14:00.000Z-Cshk108-2010-08-07T04:57:00.000Z\"><span id='ooui-php-5' class='ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-iconElement oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{\"_\":\"OO.ui.ButtonWidget\",\"rel\":[\"nofollow\"],\"framed\":false,\"icon\":\"share\",\"label\":\"\\u56de\\u590d\",\"flags\":[\"progressive\"],\"classes\":[\"ext-discussiontools-init-replybutton\"]}'><a role='button' tabindex='0' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-icon-share oo-ui-image-progressive'></span><span class='oo-ui-labelElement-label'>回复</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive'></span></a></span></span><span data-mw-comment-end=\"c-KevinSET-2013-01-24T01:14:00.000Z-Cshk108-2010-08-07T04:57:00.000Z\"></span></dd></dl>\n<div class=\"mw-heading mw-heading2 ext-discussiontools-init-section\"><h2 id=\"卡卡西是特別上忍？\" data-mw-thread-id=\"h-卡卡西是特別上忍？-2011-07-03T12:11:00.000Z\"><span id=\".E5.8D.A1.E5.8D.A1.E8.A5.BF.E6.98.AF.E7.89.B9.E5.88.A5.E4.B8.8A.E5.BF.8D.EF.BC.9F\"></span><span data-mw-comment-start=\"\" id=\"h-卡卡西是特別上忍？-2011-07-03T12:11:00.000Z\"></span>卡卡西是特別上忍？<span data-mw-comment-end=\"h-卡卡西是特別上忍？-2011-07-03T12:11:00.000Z\"></span></h2><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Talk:%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8&amp;action=edit&amp;section=6\" title=\"编辑章节：卡卡西是特別上忍？\"><span>编辑</span></a><span class=\"mw-editsection-bracket\">]</span></span><div class=\"ext-discussiontools-init-section-bar\"><div class=\"ext-discussiontools-init-section-metadata\"><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-timestampLabel'>最新留言：<a href=\"#c-Amine_wiki-2011-07-03T12:11:00.000Z-卡卡西是特別上忍？\">14年前</a></span><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-commentCountLabel'>1条留言</span><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-authorCountLabel'>1人参与讨论</span></div><div class=\"ext-discussiontools-init-section-actions\"></div></div></div>\n<p><span data-mw-comment-start=\"\" id=\"c-Amine_wiki-2011-07-03T12:11:00.000Z-卡卡西是特別上忍？\"></span>卡卡西不是在12歲成為上忍的嗎？怎麼在本條目中成為特別上忍了(其他條目是寫他是上忍的...)？\n<span data-mw-comment-sig=\"c-Amine_wiki-2011-07-03T12:11:00.000Z-卡卡西是特別上忍？\"></span><a href=\"/wiki/User:Amine_wiki\" title=\"User:Amine wiki\">寧星</a> (<a href=\"/wiki/User_talk:Amine_wiki\" title=\"User talk:Amine wiki\">留言</a>) <a href=\"https://zh.wikipedia.org/wiki/Talk:%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8#c-Amine_wiki-2011-07-03T12:11:00.000Z-卡卡西是特別上忍？\" class=\"ext-discussiontools-init-timestamplink\" title=\"14年前\">2011年7月3日 (日) 12:11 (UTC)</a><span class=\"ext-discussiontools-init-replylink-buttons\" data-mw-thread-id=\"c-Amine_wiki-2011-07-03T12:11:00.000Z-卡卡西是特別上忍？\"><span id='ooui-php-6' class='ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-iconElement oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{\"_\":\"OO.ui.ButtonWidget\",\"rel\":[\"nofollow\"],\"framed\":false,\"icon\":\"share\",\"label\":\"\\u56de\\u590d\",\"flags\":[\"progressive\"],\"classes\":[\"ext-discussiontools-init-replybutton\"]}'><a role='button' tabindex='0' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-icon-share oo-ui-image-progressive'></span><span class='oo-ui-labelElement-label'>回复</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive'></span></a></span></span><span data-mw-comment-end=\"c-Amine_wiki-2011-07-03T12:11:00.000Z-卡卡西是特別上忍？\"></span>\n</p>\n<div class=\"mw-heading mw-heading2 ext-discussiontools-init-section\"><h2 id=\"条目「阿凯」的最后版本\" data-mw-thread-id=\"h-条目「阿凯」的最后版本-2014-06-28T05:01:00.000Z\"><span id=\".E6.9D.A1.E7.9B.AE.E3.80.8C.E9.98.BF.E5.87.AF.E3.80.8D.E7.9A.84.E6.9C.80.E5.90.8E.E7.89.88.E6.9C.AC\"></span><span data-mw-comment-start=\"\" id=\"h-条目「阿凯」的最后版本-2014-06-28T05:01:00.000Z\"></span>条目「<a href=\"/wiki/%E9%98%BF%E5%87%AF\" class=\"mw-redirect\" title=\"阿凯\">阿凯</a>」的最后版本<span data-mw-comment-end=\"h-条目「阿凯」的最后版本-2014-06-28T05:01:00.000Z\"></span></h2><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Talk:%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8&amp;action=edit&amp;section=7\" title=\"编辑章节：条目「阿凯」的最后版本\"><span>编辑</span></a><span class=\"mw-editsection-bracket\">]</span></span><div class=\"ext-discussiontools-init-section-bar\"><div class=\"ext-discussiontools-init-section-metadata\"><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-timestampLabel'>最新留言：<a href=\"#c-M940504-2014-06-28T05:01:00.000Z-条目「阿凯」的最后版本\">11年前</a></span><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-commentCountLabel'>1条留言</span><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-authorCountLabel'>1人参与讨论</span></div><div class=\"ext-discussiontools-init-section-actions\"></div></div></div>\n<p><span data-mw-comment-start=\"\" id=\"c-M940504-2014-06-28T05:01:00.000Z-条目「阿凯」的最后版本\"></span>以下是原有條目<a href=\"/wiki/%E9%98%BF%E5%87%AF\" class=\"mw-redirect\" title=\"阿凯\">阿凯</a>的內容，若各位編者需要原有條目可從這裡擷取（原有的一些分類與模板等不必要的內容已先行移除）。\n</p>\n<style data-mw-deduplicate=\"TemplateStyles:r84318674\">@media all and (max-width:500px){.mw-parser-output .hidden-div{width:auto!important;clear:none!important;float:none!important}}</style><div class=\"hidden-div mw-collapsible mw-collapsed\" style=\"padding: 4px; border: 1px solid var(--border-color-base,#a2a9b1); text-align: center; font-size: 95%; color: inherit;\">\n<div class=\"skin-nightmode-reset-color collapsible-title\" style=\"line-height: 1.6em; font-weight: bold; background-color: var(--background-color-progressive-subtle--hover,#ccf); color: var(--color-emphasized,#000); width: 100%; position: relative; ;\">条目「<a href=\"/wiki/%E9%98%BF%E5%87%AF\" class=\"mw-redirect\" title=\"阿凯\">阿凯</a>」的最后版本<span style=\"position: absolute; top: 0; right: 3px;\"><span class=\"mw-collapsible-toggle-placeholder\"></span></span>\n</div>\n<div style=\"clear:both;\"></div>\n<div class=\"mw-collapsible-content\" style=\"font-size: 100%; text-align: left;\">\n<div class=\"pathnavbox\">\n<div style=\"margin-left: 10px; padding: 5px 5px 5px 5px; background-color: #CFF; clear:both; vertical-align:center; font-size:middle; cursor:default; line-height:0.8em;\"><span typeof=\"mw:File\"><a href=\"/wiki/Wikipedia:%E9%A6%96%E9%A1%B5\" title=\"Wikipedia:首页\"><img alt=\"\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Home_breadcrumb.svg/20px-Home_breadcrumb.svg.png\" decoding=\"async\" width=\"20\" height=\"20\" class=\"mw-file-element\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Home_breadcrumb.svg/40px-Home_breadcrumb.svg.png 1.5x\" data-file-width=\"500\" data-file-height=\"500\"></a></span>&nbsp;<span typeof=\"mw:File\"><span><img alt=\">\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Breadcrumb_separator_2.svg/20px-Breadcrumb_separator_2.svg.png\" decoding=\"async\" width=\"10\" height=\"14\" class=\"mw-file-element\" data-file-width=\"431\" data-file-height=\"600\"></span></span><a href=\"/wiki/Talk:%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85\" title=\"Talk:火影忍者\">火影忍者</a>&nbsp;<span typeof=\"mw:File\"><span><img alt=\">\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Breadcrumb_separator_2.svg/20px-Breadcrumb_separator_2.svg.png\" decoding=\"async\" width=\"10\" height=\"14\" class=\"mw-file-element\" data-file-width=\"431\" data-file-height=\"600\"></span></span><a href=\"/wiki/Talk:%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8\" title=\"Talk:火影忍者角色列表\">火影忍者角色列表</a>&nbsp;<span typeof=\"mw:File\"><span><img alt=\">\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Breadcrumb_separator_2.svg/20px-Breadcrumb_separator_2.svg.png\" decoding=\"async\" width=\"10\" height=\"14\" class=\"mw-file-element\" data-file-width=\"431\" data-file-height=\"600\"></span></span><a href=\"/wiki/Talk:%E6%9C%A8%E5%8F%B6%E6%9D%91%E5%BF%8D%E8%80%85%E5%88%97%E8%A1%A8\" class=\"mw-redirect\" title=\"Talk:木叶村忍者列表\">木叶村忍者列表</a><b>&nbsp;<span typeof=\"mw:File\"><span><img alt=\">\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Breadcrumb_separator_2.svg/20px-Breadcrumb_separator_2.svg.png\" decoding=\"async\" width=\"10\" height=\"14\" class=\"mw-file-element\" data-file-width=\"431\" data-file-height=\"600\"></span></span><span title=\"本條目\">木叶村角色列表</span></b></div></div>\n<div id=\"noteTA-4a257367\" class=\"noteTA\"><div class=\"noteTA-group\"><div data-noteta-group-source=\"template\" data-noteta-group=\"NARUTO\"></div>\n<p class=\"mw-empty-elt\">\n\n</p><p class=\"mw-empty-elt\">\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p><p class=\"mw-empty-elt\">\n\n\n\n\n\n\n\n\n</p><p><br>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n</p>\n</div></div>\n<style data-mw-deduplicate=\"TemplateStyles:r88180077\">.mw-parser-output .infobox-subbox{padding:0;border:none;margin:-3px;width:auto;min-width:100%;font-size:100%;clear:none;float:none;background-color:transparent}.mw-parser-output .infobox-3cols-child{margin:auto}.mw-parser-output .infobox .navbar{font-size:100%}body.skin-minerva .mw-parser-output .infobox-header,body.skin-minerva .mw-parser-output .infobox-subheader,body.skin-minerva .mw-parser-output .infobox-above,body.skin-minerva .mw-parser-output .infobox-title,body.skin-minerva .mw-parser-output .infobox-image,body.skin-minerva .mw-parser-output .infobox-full-data,body.skin-minerva .mw-parser-output .infobox-below{text-align:center}@media screen{html.skin-theme-clientpref-night .mw-parser-output .infobox-full-data:not(.notheme)>div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox-full-data:not(.notheme)>div:not(.notheme)[style]{background:#1f1f23!important;color:#f8f9fa}}html.skin-theme-clientpref-night .mw-parser-output .infobox td div:not(.notheme)[style]{background:transparent!important;color:var(--color-base,#202122)}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox td div:not(.notheme)[style]{background:transparent!important;color:var(--color-base,#202122)}}html.skin-theme-clientpref-night .mw-parser-output .infobox td div.NavHead:not(.notheme)[style]{background:transparent!important}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .infobox td div.NavHead:not(.notheme)[style]{background:transparent!important}}@media(min-width:640px){body.skin--responsive .mw-parser-output .infobox-table{display:table!important}body.skin--responsive .mw-parser-output .infobox-table>caption{display:table-caption!important}body.skin--responsive .mw-parser-output .infobox-table>tbody{display:table-row-group}body.skin--responsive .mw-parser-output .infobox-table tr{display:table-row!important}body.skin--responsive .mw-parser-output .infobox-table th,body.skin--responsive .mw-parser-output .infobox-table td{padding-left:inherit;padding-right:inherit}}</style><table class=\"infobox\" style=\"border-spacing: 2px 5px;\"><tbody><tr><th colspan=\"2\" class=\"infobox-above\" style=\"background: #DEDEE2; color: #000;\">邁特‧凱</th></tr><tr><td colspan=\"2\" class=\"infobox-subheader\"><i><span title=\"日語文本\"><span lang=\"ja\">マイト・ガイ</span></span></i></td></tr><tr><td colspan=\"2\" class=\"infobox-image\"><span typeof=\"mw:Error mw:File\"><a href=\"//zh.wikipedia.org/wiki/Project:上传?wpDestFile=Maito_Gai.jpg\" class=\"new\" title=\"File:Maito Gai.jpg\"><span class=\"mw-file-element mw-broken-media\" data-width=\"180\">File:Maito Gai.jpg</span></a></span></td></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"\">初次登場</th><td class=\"infobox-data\" style=\"\">\n漫画第38话 <br> 动画第22集</td></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"\">聲優</th><td class=\"infobox-data\" style=\"\">\n<span class=\"flagicon\"><span class=\"mw-image-border notpageimage\" typeof=\"mw:File\"><a href=\"/wiki/%E6%97%A5%E6%9C%AC\" title=\"日本\"><img alt=\"日本\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/40px-Flag_of_Japan.svg.png\" decoding=\"async\" width=\"22\" height=\"15\" class=\"mw-file-element\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/60px-Flag_of_Japan.svg.png 2x\" data-file-width=\"900\" data-file-height=\"600\"></a></span></span><a href=\"/wiki/%E6%B1%9F%E5%8E%9F%E6%AD%A3%E5%A3%AB\" title=\"江原正士\">江原正士</a><br><span class=\"flagicon\"><span class=\"mw-image-border notpageimage\" typeof=\"mw:File\"><a href=\"/wiki/%E9%A6%99%E6%B8%AF\" title=\"香港\"><img alt=\"香港\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/40px-Flag_of_Hong_Kong.svg.png\" decoding=\"async\" width=\"22\" height=\"15\" class=\"mw-file-element\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/60px-Flag_of_Hong_Kong.svg.png 2x\" data-file-width=\"900\" data-file-height=\"600\"></a></span></span><a href=\"/wiki/%E6%9D%8E%E9%8C%A6%E7%B6%B8\" class=\"mw-disambig\" title=\"李錦綸\">李錦綸</a><br><span class=\"flagicon\"><span class=\"mw-image-border notpageimage\" typeof=\"mw:File\"><a href=\"/wiki/%E8%87%BA%E7%81%A3%E5%9C%B0%E5%8D%80\" title=\"臺灣地區\"><img alt=\"臺灣地區\" src=\"//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/40px-Flag_of_the_Republic_of_China.svg.png\" decoding=\"async\" width=\"22\" height=\"15\" class=\"mw-file-element\" srcset=\"//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/60px-Flag_of_the_Republic_of_China.svg.png 2x\" data-file-width=\"900\" data-file-height=\"600\"></a></span></span><a href=\"/wiki/%E6%9E%97%E5%8D%94%E5%BF%A0\" title=\"林協忠\">林協忠</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\" style=\"background: #DEDEE2; color: #000;;\">個人檔案</th></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"\">年齡</th><td class=\"infobox-data\" style=\"\">第一部 26-27岁 ‎‎<br>第二部 30岁</td></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"\">生日</th><td class=\"infobox-data\" style=\"\">1月1日</td></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"\"><a href=\"/wiki/%E4%BA%BA%E7%B1%BB%E8%A1%80%E5%9E%8B%E7%B3%BB%E7%BB%9F\" title=\"人类血型系统\">血型</a></th><td class=\"infobox-data\" style=\"\">B</td></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"\">身高</th><td class=\"infobox-data\" style=\"\">184 <a href=\"/wiki/%E5%8E%98%E7%B1%B3\" title=\"厘米\">厘米</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"\">體重</th><td class=\"infobox-data\" style=\"\">76 <a href=\"/wiki/%E5%85%AC%E6%96%A4\" class=\"mw-redirect\" title=\"公斤\">千克</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\" style=\"background: #DEDEE2; color: #000;;\">忍者资料</th></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"\">登記號碼</th><td class=\"infobox-data\" style=\"\">010252</td></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"\">級别</th><td class=\"infobox-data\" style=\"\">上忍（實力已達S級忍者）</td></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"\">現隷屬組織</th><td class=\"infobox-data\" style=\"\"><a href=\"/wiki/%E7%81%AB%E4%B9%8B%E5%9B%BD#木叶隐忍者村\" class=\"mw-disambig\" title=\"火之国\">木叶隐忍者村</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"\">現隷屬小隊</th><td class=\"infobox-data\" style=\"\"><a href=\"/wiki/%E7%81%AB%E4%B9%8B%E5%9B%BD#第三班\" class=\"mw-disambig\" title=\"火之国\">第三班</a></td></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"\">徒弟</th><td class=\"infobox-data\" style=\"\"><a href=\"/wiki/%E6%9D%8E%E6%B4%9B%E5%85%8B\" title=\"李洛克\">李洛克</a><br><a href=\"/wiki/%E6%97%A5%E5%90%91%E5%AE%81%E6%AC%A1\" class=\"mw-redirect\" title=\"日向宁次\">日向寧次</a><br><a href=\"/wiki/%E5%A4%A9%E5%A4%A9\" class=\"mw-disambig\" title=\"天天\">天天</a></td></tr><tr><th colspan=\"2\" class=\"infobox-header\" style=\"background: #DEDEE2; color: #000;;\"><a href=\"/wiki/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85%E8%A1%93%E5%88%97%E8%A1%A8\" title=\"火影忍者術列表\">忍術</a></th></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"\">擅長</th><td class=\"infobox-data\" style=\"\">體術</td></tr><tr><th scope=\"row\" class=\"infobox-label\" style=\"\">絕招</th><td class=\"infobox-data\" style=\"\">八門遁甲<br>朝孔雀<br>昼虎<br>夕象<br>夜凱</td></tr></tbody></table>\n<p><b>阿凱</b>(<span title=\"日語文本\"><span lang=\"ja\">マイト·ガイ</span></span>,Maito Gai)是日本動漫系列<a href=\"/wiki/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85\" title=\"火影忍者\">火影忍者</a>中的一個虛擬人物。木葉忍村第一熱血教師，指導較擅於體術的第三班。\n</p><p>==身份及性格==\n阿凱為木葉忍村內的上忍，指導第三班（包括李洛克、日向寧次及天天）。他喜好梳招牌的西瓜頭，穿著綠色的緊身戰衣，而護額則是戴在腰間，而他的造形據稱是仿製自武打巨星<a href=\"/wiki/%E6%9D%8E%E5%B0%8F%E9%BE%8D\" class=\"mw-redirect\" title=\"李小龍\">李小龍</a>的造型。因為<a href=\"/wiki/%E6%9D%8E%E6%B4%9B%E5%85%8B\" title=\"李洛克\">李洛克</a>崇拜他，所以當了阿凱的徒兒後，也模仿他的造型、有同樣的裝束；兩人出雙入對，一起訓練，儼如一對父子。更甚的是他們同樣都有一對粗眼眉，是他們兩人獨有的明顯特徵。\n</p><p>至於他的熱血程度，在《臨之書》的性格圖表中顯示其跳出框框之外（即代表超凡的熱血程度）。他口頭常掛著「青春」兩字，要徒兒們跟他一起展現「青春的力量」；也會和小李演繹青春劇集中的情景，面對夕陽灑盡熱血之淚。愛擺出酷男「甫士」（舉起左手、豎起姆指，及閃爍潔白的牙齒），作為對承諾遵守、或表現自信的一種表現。這行為已傳給了其徒弟<a href=\"/wiki/%E6%9D%8E%E6%B4%9B%E5%85%8B\" title=\"李洛克\">李洛克</a>、及感染到<a href=\"/wiki/%E6%BC%A9%E6%B8%A6%E9%B3%B4%E4%BA%BA\" title=\"漩渦鳴人\">漩渦鳴人</a>。不過有時當他的熱情被卡卡西冷淡對待時，他情不自禁顯出相當激憤的心情。\n</p><p>阿凱自稱「木葉高傲的蒼藍猛獸」，無論在體術、速度及精力方面的能力均是全滿。過去曾經是惠比壽和不知火弦間的昔日同窗暨隊友，並且稱<a href=\"/wiki/%E6%97%97%E6%9C%A8%E5%8D%A1%E5%8D%A1%E8%A5%BF\" title=\"旗木卡卡西\">旗木卡卡西</a>為「終身競爭對手」，並曾透露跟卡卡西對戰成績為50勝49敗。不過這個成績未知可不可靠，特別是他們的比試包羅萬有，從單純的猜拳、吃拉麵比試到雙方的對戰都有，所以基本上沒有特定準則。\n</p><p>有關阿凱的少年時代，據他與小李初次見面時所透露，他的從前其實跟小李差不多，能力不算突出，但同樣懷有超越所謂「天才」的不服輸心態。憑著他堅毅不屈的鍛鍊，及以超越「天才」卡卡西為目標，他在體術掌控方面有非凡的才能，甚至自說有能力擊敗卡卡西。不過，他所謂的鍛鍊，也不是一般人所能輕易完成，如做一千多下<a href=\"/wiki/%E6%8E%8C%E4%B8%8A%E5%A3%93\" class=\"mw-redirect\" title=\"掌上壓\">掌上壓</a>、圍繞忍村倒豎蔥[倒立走]來回五百多次;如果中途倒下了，就要重頭再做。跟卡卡西輸了比試時，也要以這些艱苦的鍛鍊作為懲罰。因此，他的徒弟<a href=\"/wiki/%E6%97%A5%E5%90%91%E5%AE%81%E6%AC%A1\" class=\"mw-redirect\" title=\"日向宁次\">日向寧次</a>及<a href=\"/wiki/%E5%A4%A9%E5%A4%A9_(%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85)\" class=\"mw-redirect\" title=\"天天 (火影忍者)\">天天</a>很不願意接受他的教學方式，只有<a href=\"/wiki/%E6%9D%8E%E6%B4%9B%E5%85%8B\" title=\"李洛克\">李洛克</a>一人陪伴及接受阿凱的各種地獄式訓練，所以他對這名徒兒的成長更清晰，小李的每一次成長對他來說也有刻骨銘心的記憶。\n</p><p>雖然阿凱的能力多表現在體術上，但其實他也通曉其他忍術。如他懂得<b>通靈之術</b>，能夠召喚忍龜；也懂得解除幻術的招式，故在木葉崩潰時不被音忍<a href=\"/wiki/%E8%8D%AF%E5%B8%88%E5%85%9C\" title=\"药师兜\">藥師兜</a>的幻術所催眠。這就是他跟只懂體術的徒弟小李所不同之處，他應是優先性地使用體術。阿凱對應付<a href=\"/wiki/%E5%86%99%E8%BD%AE%E7%9C%BC\" title=\"写轮眼\">寫輪眼</a>的瞳術也有自己的一套，故面對<a href=\"/wiki/%E5%AE%87%E6%99%BA%E6%B3%A2%E9%BC%AC\" title=\"宇智波鼬\">宇智波鼬</a>時，也處變不驚。\n</p><p>==跟李洛克師徒之緣==\n他初次見<a href=\"/wiki/%E6%9D%8E%E6%B4%9B%E5%85%8B\" title=\"李洛克\">李洛克</a>之時，是在學院內見到小李被其他同學欺負時。因為小李連基本的變身術都不會，而且對體術的操控也不精，所以被其他同學離棄，並被恥笑為「吊車尾」。這在阿凱老師留下第一眼印象。後於一次機緣中，見到小李獨自在森林中苦練體術；臨近日落時再經過該地，驚覺小李原來還在練習。小李的熱誠，終於烙印在阿凱這位熱血教師心中。阿凱留下來跟小李說話，並自述以前跟小李差不多，在各方面的能力都明顯不足；但經過鍛鍊，他現在已有能力超越他的對手了。他的話似乎為小李打了一枝強心針，亦從此結下師徒之緣。\n</p><p>小李於學院畢業後，如願得到阿凱老師的指導。每位剛畢業的學生都會在新的指導老師面前，說說自己的夢想，小李這班也不例外。小李跟阿凱說，雖然自己不懂得任何忍術及幻術，但深信只要通過在體術上的不斷訓練，也能成為出色的忍者。阿凱對他這答案顯得非常滿意，及後更盡力把自己所有的體術奧義都傳授給小李（如木葉旋風、蓮華及八門遁甲）。他也把一件綠色緊身戰衣送給這名徒兒（當天天及寧次不要時，小李卻非常雀躍），使他們的形象更相似。\n</p><p>==動漫中的表現==\n===第一部===\n阿凱的出場，主要在以下幾個環節:\n</p>\n<ul><li>在中忍試登記場內，<a href=\"/wiki/%E6%9D%8E%E6%B4%9B%E5%85%8B\" title=\"李洛克\">李洛克</a>私下挑戰<a href=\"/wiki/%E5%AE%87%E6%99%BA%E6%B3%A2%E4%BD%90%E5%8A%A9\" title=\"宇智波佐助\">宇智波佐助</a>，並欲以禁術--蓮華之術擊敗對方。但阿凱先召喚出忍龜，阻止小李使用禁術;不久又站在忍龜身上，並正式登場。對小李的犯錯，他予以重拳的懲罰；但因為愛這名徒兒，之後又像青春劇般，對小李教導一番，並灑著熱淚。佐助等第七班的人，儘管對這對奇怪的粗眉師徒感到無奈，但阿凱瞬間出現在他們背後之舉，使他們不得不承認這名老師是有超凡的實力。</li>\n<li>阿凱曾跟<a href=\"/wiki/%E4%B8%89%E4%BB%A3%E7%9B%AE%E7%81%AB%E5%BD%B1\" class=\"mw-redirect\" title=\"三代目火影\">三代目火影</a>抗議，認為不應讓從忍者學院新畢業的九名新人參與中忍考試，因為這樣過於冒險。他本身也是讓自己的學生們鍛鍊一年後，才准許他們參加中忍考試。但他的抗議被最終被三代目否決，而九名新人亦被批准參加考試。</li>\n<li>阿凱作為小李、寧次及天天的導師，觀察他們在中忍第三場預選比試的表現。於比試進行中，他曾出手相救快要被徒兒寧次殺死的<a href=\"/wiki/%E6%97%A5%E5%90%91%E9%9B%8F%E7%94%B0\" title=\"日向雏田\">日向雛田</a>，阻止了寧次衝動之舉。及後目睹愛徒小李被<b>砂之<a href=\"/wiki/%E6%88%91%E6%84%9B%E7%BE%85\" title=\"我愛羅\">我愛羅</a></b>用『砂瀑送葬』之術弄斷左手及左腳骨骼;當<a href=\"/wiki/%E6%88%91%E6%84%9B%E7%BE%85\" title=\"我愛羅\">我愛羅</a>進一步想殺死小李之際，他瞬間出現在砂爪面前及一手撥開砂子，挽救了小李的性命。他看見小李處於昏迷狀態、左肢骨骼受創之際，仍要堅強地站起來，阿凱立即無法掩蓋自己的哀傷，灑下男兒淚。當他從醫療忍者口中，得知小李將可能無法成為忍者時，他更是自責不已，一度呆站在場內一段時間。中忍第三場正式考試前夕，他曾到醫院探望小李，遇上欲殺掉小李的我愛羅，並及時阻止對方的瘋狂行動。</li>\n<li>中忍第三場正式考試進行期間，他帶著負傷及需拿拐杖行動的小李，到試場觀賞比試。但不久音忍及砂忍對木葉忍村展開大規模的攻擊，阿凱先自行解開音忍<a href=\"/wiki/%E8%8D%AF%E5%B8%88%E5%85%9C\" title=\"药师兜\">藥師兜</a>所施的幻術，及聯同<a href=\"/wiki/%E6%97%97%E6%9C%A8%E5%8D%A1%E5%8D%A1%E8%A5%BF\" title=\"旗木卡卡西\">旗木卡卡西</a>一起應付試場內為數眾多的音忍及砂忍。</li>\n<li>隸屬於『曉』組織的木葉叛忍<a href=\"/wiki/%E5%AE%87%E6%99%BA%E6%B3%A2%E9%BC%AC\" title=\"宇智波鼬\">宇智波鼬</a>，及霧忍叛忍干柿鬼鮫，為追捕擁有九尾的鳴人，來到了戰後的木葉忍村。上忍<a href=\"/wiki/%E5%A4%95%E6%97%A5%E7%BA%A2\" class=\"mw-redirect\" title=\"夕日红\">夕日紅</a>、<a href=\"/wiki/%E7%8C%BF%E9%A3%9E%E9%98%BF%E6%96%AF%E7%8E%9B\" class=\"mw-redirect\" title=\"猿飞阿斯玛\">猿飛阿斯瑪</a>及卡卡西先後跟他們對戰，但均敗下陣來。當『曉』兩人欲有進一步行動時，阿凱出現並飛身踢開干柿鬼鮫，這一腳亦成為了鬼鮫一直怨恨之事。他亦說出應付鼬寫輪眼的方式，就是把視覺集中在自己的足部，反而透過感應力來得悉對方的位置及進行攻擊。鼬知道阿凱並不好惹，便跟鬼鮫一起撤退。後阿凱追趕他們至鳴人所投宿的旅店，以為<a href=\"/wiki/%E8%87%AA%E6%9D%A5%E4%B9%9F_(%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85)\" title=\"自来也 (火影忍者)\">自來也</a>是『曉』的成員，便重重一腳地踢開<a href=\"/wiki/%E8%87%AA%E6%9D%A5%E4%B9%9F_(%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85)\" title=\"自来也 (火影忍者)\">自來也</a>。當然他也嘗到了<a href=\"/wiki/%E8%87%AA%E6%9D%A5%E4%B9%9F_(%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85)\" title=\"自来也 (火影忍者)\">自來也</a>的一頓臭罵。</li>\n<li><a href=\"/wiki/%E7%BA%B2%E6%89%8B\" class=\"mw-redirect\" title=\"纲手\">綱手</a>回歸及就任<b>五代目火影</b>後，他立刻前往找綱手，請求她為在中忍試時受傷的愛徒小李治療。然而，綱手指出手術的成功率只有5成左右，若手術失敗，小李隨時連性命也要賠上。正當小李為應不應進行手術而苦惱時，阿凱前來勸解他，並鼓勵小李應接受手術。阿凱更說出若小李因手術失敗而亡，他也會選擇陪伴小李一起死去。這番說話強烈感動小李，令小李毅然選擇動手術。</li>\n<li>當中忍<a href=\"/wiki/%E5%A5%88%E8%89%AF%E9%B9%BF%E4%B8%B8\" title=\"奈良鹿丸\">奈良鹿丸</a>率領一眾下忍追討佐助時，阿凱亦剛完成任務歸來木葉忍村。他追問<a href=\"/wiki/%E7%BA%B2%E6%89%8B\" class=\"mw-redirect\" title=\"纲手\">綱手</a>徒兒小李的狀況，及得悉手術非常成功時，他高興得淚涕齊下。但當醫療忍者報告小李沒在病房休息及失蹤時，阿凱知道小李一定是私下離開忍村、前往協助營救佐助，他的神色即來個一百八十度轉變，由高興變成極度緊張。尢其是在他知道小李錯誤把酒當藥帶在身邊時，他的神色顯得異常凝重，因為他知道小李將會使出可怕的拳術--『醉拳』。</li></ul>\n<p>===第二部===\n</p>\n<ul><li>第二部中，他率領第三班一眾成員，協助卡卡西班救回風影<a href=\"/wiki/%E6%88%91%E6%84%9B%E7%BE%85\" title=\"我愛羅\">我愛羅</a>。途中遇上象轉之術形成的鬼鮫替身，但此替身無論在外貌、忍術及武器方面都跟真正的鬼鮫不遑多讓；更甚的是替身就是在真正鬼鮫的意念控制下行動。面對擁有強大查克拉力量（雖然替身只有本體的三成查克拉，但基本差異不大）及擅於水遁術的對手，阿凱一度處於不利的狀態，更被對方一拳擊入水底。在水底內，他被替身所施的<b>水遁術--五食鮫</b>而化成的五條鮫鯊不斷攻擊，尢其因為這環境不利於行動，所以要應付牠們就顯得異常困難。為了解困，阿凱決定施行禁術--<b>『八門遁甲』</b>，更一度開至『八門』中的第六門『景門』，從水中往水面打開一條通道;此力量之大，更把水中的五鮫給粉碎。阿凱完全扭轉之前的局面，飛快地衝出水面，並瞬間出現在鬼鮫替身之前。他進一步使用體術中的絕技--<b>『朝孔雀』</b>，對替身不斷施以連環拳擊，而且拳擊當中不斷冒出火球，猶如孔雀開屏般四散。最後替身在全身焚燒的狀態下，重擊於地上而亡。雖然阿凱對於這個突如其來的對手已全無印象，不過卻對這只是替身而感到驚訝。</li></ul>\n<ul><li>後阿凱班與卡卡西班一同趕到『曉』成員的聚會場所，及對<a href=\"/wiki/%E6%88%91%E6%84%9B%E7%BE%85\" title=\"我愛羅\">我愛羅</a>施行<b>封印術·幻龍九封盡</b>的地方。但該處的入口被一道巨岩石所阻擋，而且入口上及另外四處地方均有咒印存在。阿凱、卡卡西等意識到要同時撕除這五張咒印方可使岩石打開，故決定分頭行事。阿凱小隊中的四人分別前往其餘四處咒印所在地，而卡卡西則留在大岩石的咒印處，準備一同撕除這五張咒印。然而，就在咒印被撕除、岩石被<a href=\"/wiki/%E6%98%A5%E9%87%8E%E6%AB%BB\" title=\"春野櫻\">春野櫻</a>擊碎之際，其餘四處咒印所在地發生了怪異現象。咒印附近出現了跟阿凱小隊每一個人一樣的泥土分身，而且連施展的術也跟他們一樣。就在他跟分身對戰、感到力有不繼之時，聽到徒兒<a href=\"/wiki/%E6%9D%8E%E6%B4%9B%E5%85%8B\" title=\"李洛克\">李洛克</a>的一番勉勵語句，在『不認老』的意念下，他使出全身力量，施展體術--<b>『木葉大旋風』</b>並給予土分身重創一擊，獲得最終勝利。</li></ul>\n<ul><li>後在<a href=\"/wiki/%E6%97%A5%E5%90%91%E5%AE%81%E6%AC%A1\" class=\"mw-redirect\" title=\"日向宁次\">日向寧次</a>協助下找出『曉』成員<a href=\"/wiki/%E8%BF%AA%E9%81%94%E6%8B%89\" class=\"mw-redirect\" title=\"迪達拉\">迪達拉</a>的藏身之處，小隊眾人對<a href=\"/wiki/%E8%BF%AA%E9%81%94%E6%8B%89\" class=\"mw-redirect\" title=\"迪達拉\">迪達拉</a>進行圍攻。但<a href=\"/wiki/%E8%BF%AA%E9%81%94%E6%8B%89\" class=\"mw-redirect\" title=\"迪達拉\">迪達拉</a>卻突然吞下引爆粘土，似乎是要作出自我引爆（儘管這也是分身而已），跟阿凱班及在場的卡卡西班一同同歸於盡。幸得卡卡西及時使用<b>萬花筒寫輪眼</b>，將<a href=\"/wiki/%E8%BF%AA%E9%81%94%E6%8B%89\" class=\"mw-redirect\" title=\"迪達拉\">迪達拉</a>及其引爆轉移到另一空間，才免卻一場酷劫。跟曉一輪對戰後，成功護送風影我愛羅返回砂忍村;因卡卡西體力消耗過多，不能行動，阿凱便以奇怪的姿勢、背負著卡卡西衝返木葉忍村，除了愛徒小李『懂得欣賞』外，惹來第三班及第七班成員的白眼。</li></ul>\n<ul><li>鳴人受木葉安排前往孤島與八尾人柱力會合時，阿凱也隨行在側，並且因為不適應交通導致暈船。</li></ul>\n<ul><li>在鳴人完成九尾查克拉控制訓練，並識破鬼鮫的偽裝後，與鬼鮫展開激烈交戰。其間開啟<b>八門遁甲第六門「景門」</b>，使出<b>『朝孔雀』</b>，其後更加開啟<b>第七門「驚門」</b>，爆發地使出更強大的絕招<b>「晝虎」</b>。當鬼鮫為了不洩漏「曉」的情報，使用通靈術召喚鯊魚自盡身亡時，阿凱對此表示將鬼鮫所作的舉止謹記在心，其後因為同行的忍者誤觸設有陷阱的情報捲軸，一行人被困在水牢內一段時間。由於八門遁甲的副作用，阿凱身上的肌肉纖維多半被撕裂，甚至連鳴人觸碰他的身體都會感到劇烈疼痛。</li></ul>\n<ul><li>於忍界戰爭篇被分配到第三部隊 近中距離聯合軍分隊，與卡卡西和小李同隊，但阿凱仍然口吐白沫昏倒在地上，令周遭人擔心不已。後來和第三部隊成員遇上桃地再不斬與白，和卡卡西聯手抵制再不斬的攻勢。</li></ul>\n<ul><li>為了對付成為<b>「第三個六道仙人」</b>的<a href=\"/wiki/%E5%AE%87%E6%99%BA%E6%B3%A2%E6%96%91\" title=\"宇智波斑\">宇智波斑</a>，阿凱不惜犧牲性命，開啟了<b>八門遁甲第八門「死門」</b>之招式<b>『夕象』</b>，其查克拉散發成<b>血之雨</b>，使自身成為了<b>「紅色猛獸」</b>，迅速移動至<b>宇智波班</b>的前面給予迎面痛擊。然而，<b>「夕象」</b>始終不能擊敗<b>宇智波斑</b>，阿凱決心把所有的查克拉流向心臟，發動最強體術<b>「夜凱」</b>。此時，阿凱的氣完全化成一隻巨大的野獸，以絕對優勢的速度扭曲空間，直接擊碎<b>宇智波斑</b>的胸骨之下肝膽的部位，儘管也未能將<b>宇智波斑</b>完全摧毀，但對其造成的傷害之大不能否認，隨後阿凱」更被<b>宇智波斑</b>稱之為「當今體術最強之人」。</li></ul>\n<ul><li>在使用了「夜凱」之後，右腿骨碎裂、精疲力盡的阿凱終於倒下，即將步向死亡，此刻<b>宇智波斑</b>以<b>求道玉</b>向阿凱攻擊，以親手殺死他當作對這個垂死之士的致敬。此時<a href=\"/wiki/%E9%B3%B4%E4%BA%BA\" class=\"mw-redirect\" title=\"鳴人\">鳴人</a>卻瞬間出現，輕輕的把<b>求道玉</b>踢開，並用有太陽記號的手掌把阿凱心臟代表生命力的查克拉之火重新燃起。此時的鳴人，雙眼有著十字的瞳孔，估計是仙人和尾獸之力的融合，但身上沒有出現「尾獸查克拉外衣」，也許鳴人是真真正正的繼承了「阿修羅」的力量，成為仙人與尾獸的混合體。</li></ul>\n<p>==檔案==&lt;nowiki&gt;\n*性格：熱血，常灑代表青春的熱淚\n*喜歡的食物 ：超辣的咖哩飯、咖哩烏龍麵\n*討厭的食物 ：沒有這種東西！\n*喜歡的口頭禪 ：飛揚的青春～努力吧！年輕人！ \n*興趣 ：反覆橫跳、傳接球 、打人形靶\n*擅長技術：所有體術\n*想挑戰的對手：[[旗木卡卡西]]\n*忍者學校畢業年齡：7\n*中忍升級年齡：11\n\n&lt;nowiki&gt;==術==\n</p>\n<table class=\"wikitable\" style=\"text-align:left; font-size:90%\">\n\n<tbody><tr>\n<th>招式名稱</th>\n<th>簡介</th>\n<th>種類</th>\n<th>等級\n</th></tr>\n<tr>\n<td><b>忍法·影分身</b></td>\n<td>B級忍術，原本是用來諜報的忍術，用查克拉製造出實體並可同使用者一起行動戰鬥的分身。</td>\n<td>忍</td>\n<td>B\n</td></tr>\n<tr>\n<td><b>爆裂擊碎攻擊</b></td>\n<td>在「忍者之路」中，另一個阿凱所用的招式。在抓住目標的右掌中，匯聚高濃度的查克拉……</td>\n<td>忍</td>\n<td>\n</td></tr>\n<tr>\n<td><b>通靈之術·忍龜</b></td>\n<td>阿凱在初次登場和四次忍戰通靈出來的忍龜，有著紅色龜殼並配有木葉護額。原型是中國古代神獸<a href=\"/wiki/%E7%8E%84%E6%AD%A6\" title=\"玄武\">玄武</a>。</td>\n<td>忍</td>\n<td>C\n</td></tr>\n<tr>\n<td><b>通靈之術·小忍龜</b></td>\n<td>阿凱在動畫原創通靈出來的小忍龜，有著綠色龜殼並寫有白色「SOS」的求救訊號。</td>\n<td>忍</td>\n<td>C\n</td></tr>\n<tr>\n<td><b>動力前奏曲</b></td>\n<td>對敵方施以空中踢擊，目的是擾亂對方的行動。</td>\n<td>體</td>\n<td>B\n</td></tr>\n<tr>\n<td><b>木葉旋風</b></td>\n<td>連環使用上下踢腿，以左腳使出高速後踢腿，藉着旋轉力再用右腳使出掃腿，目的是先以上踢限制對手的逃避空間，以提高命中率。</td>\n<td>體</td>\n<td>D\n</td></tr>\n<tr>\n<td><b>木葉大旋風</b></td>\n<td>木葉旋風加強版，范圍比較廣闊。連續進行下段、中段、上段及腳跟踢擊的連續技</td>\n<td>體</td>\n<td>C\n</td></tr>\n<tr>\n<td><b>木葉超大旋風</b></td>\n<td>木葉大旋風加強版。</td>\n<td>體</td>\n<td>\n</td></tr>\n<tr>\n<td><b>木葉剛力旋風</b></td>\n<td>木葉旋風加強版，踢腿的力量更強。</td>\n<td>體</td>\n<td>B\n</td></tr>\n<tr>\n<td><b>木葉豪力旋風</b></td>\n<td>木葉旋風加強版，用於空中擊落敵人。</td>\n<td>體</td>\n<td>B\n</td></tr>\n<tr>\n<td><b>木葉烈風</b></td>\n<td>高速以腳向敵方<a href=\"/wiki/%E4%B8%8B%E7%9B%A4\" class=\"mw-redirect\" title=\"下盤\">下盤</a>攻擊。</td>\n<td>體</td>\n<td>D\n</td></tr>\n<tr>\n<td><b>木葉大閃光</b></td>\n<td></td>\n<td>體</td>\n<td>\n</td></tr>\n<tr>\n<td><b>木葉海岩翔</b></td>\n<td>強力的肘擊攻擊對手。</td>\n<td>體</td>\n<td>\n</td></tr>\n<tr>\n<td><b>青春爆發</b></td>\n<td>集中力量的拳腿攻擊。</td>\n<td>體</td>\n<td>\n</td></tr>\n<tr>\n<td><b>熱血一番星</b></td>\n<td></td>\n<td>體</td>\n<td>\n</td></tr>\n<tr>\n<td><b>八門遁甲</b></td>\n<td>包括「開」、「休」、「生」、「傷」、「杜」、「景」、「驚」、「死」八門，當八門遁甲中每一門開啓時，能給使用者數倍或更強大的查克拉力量，當最後的死門也開啓時，能發揮比「影」更強大的力量，但代價是死亡。(當八門遁甲門開啓至第七門時會發出藍色蒸氣,開啓至第八門時會發出紅色蒸氣)</td>\n<td>體</td>\n<td>\n</td></tr>\n<tr>\n<td><b>表·蓮華</b></td>\n<td>開啓『八門遁甲』至休門，把對方踢上半空，在空中用手臂上的繃帶把對方身體緊緊捆綁起來，以旋轉的方式把對方身體猛烈地撞擊地面。</td>\n<td>體</td>\n<td>B\n</td></tr>\n<tr>\n<td><b>裏·蓮華</b></td>\n<td>開啓『八門遁甲』至生門，先把對方踢至高空，但卻以三角形的極速移動方式，對位處空中中央的對方作出不斷及致命性攻擊，最後把對方重重擊落在地上。</td>\n<td>體</td>\n<td>A\n</td></tr>\n<tr>\n<td><b>朝孔雀</b></td>\n<td>開啓『八門遁甲』至景門，對對方施以連環火焰拳擊，而且火焰像孔雀開屏般四散，被擊中的對方會全身著火而墮落地面。代表早晨的「朝」，原型是中國古代神獸<a href=\"/wiki/%E6%9C%B1%E9%9B%80\" title=\"朱雀\">朱雀</a>。</td>\n<td>體</td>\n<td>A\n</td></tr>\n<tr>\n<td><b>夜鳳凰</b></td>\n<td>(PS2,psp招式)開啓『八門遁甲』至驚門，渾身火焰形成鳳凰般，以極速撞撃對方，而且火焰像鳳凰屏翅般，被擊中的對方會全身著火而墮落地面。</td>\n<td>體</td>\n<td>\n</td></tr>\n<tr>\n<td><b>晝虎</b></td>\n<td>開啓『八門遁甲』至驚門，將氣壓集中在一點，速度極快的的空壓拳，經壓縮後猛烈擴散型成猛虎轟毀對方。代表中午的「晝」，原型是中國古代神獸<a href=\"/wiki/%E7%99%BD%E8%99%8E\" title=\"白虎\">白虎</a>。</td>\n<td>體</td>\n<td>S\n</td></tr>\n<tr>\n<td><b>夕象</b></td>\n<td>開啓『八門遁甲』至死門，為五段加速的連續性打擊，為高速撞擊空氣產生出的強大衝擊波，每一擊都有著形同晝虎、甚至更高的威力！阿凱可以憑藉著驚人的出腿速度於空中踏步跳躍轉向，配合五段加速的氣壓拳，即使是擁有六道仙人之力的宇智波班也受到極大的傷害，只可惜仍然未能將其殺死。代表黃昏的「夕」。</td>\n<td>體</td>\n<td>S\n</td></tr>\n<tr>\n<td><b>夜凱</b></td>\n<td>阿凱最強之術，開啓『八門遁甲』至死門，將全部的查克拉壓縮於心臟之中後宛如火焰一般燃燒起來化為巨龍衝向敵人，而且所經途中甚至連空間亦能扭曲！一擊，僅有一擊，也是最後的一擊，一旦出手敵方雖會重創但自身也將承受相對應的反作用力。在打碎了擁有著六道仙人之力的班的肋骨後阿凱自己的腿骨也隨之碎裂斷折，在昏迷倒地後身體也開始逐步崩解。代表夜晚的「夜」，原型是中國古代神獸<a href=\"/wiki/%E9%9D%92%E9%BE%8D\" class=\"mw-redirect\" title=\"青龍\">青龍</a>。\n</td>\n<td>體</td>\n<td>S\n</td></tr>\n</tbody></table>\n<p>==武器==\n</p>\n<ul><li><b>雙截棍</b></li>\n<li><b>雙襲牙</b></li></ul>\n<p>==戰績==\n</p>\n<ul><li>敗於木葉2名忍者（幼年時期，為了替2名忍者嘲笑父親之事出氣）</li>\n<li>逃於忍刀七人眾（其父邁特戴使用八門遁甲之陣死門，助其逃脫，後邁特戴死亡）</li>\n<li>勝於宇智波帶土（幼年時期，中忍考試時期）</li>\n<li>勝於林之國忍者（與鼬、卡卡西聯手）[動畫組.卡卡西暗部篇]</li>\n<li>勝於小李、天天、寧次（下忍試煉）[動畫組.卡卡西暗部篇]</li>\n<li>擊退干柿鬼鮫</li>\n<li>勝於干柿鬼鮫的象轉分身（開啟景門 - 朝孔雀）</li>\n<li>勝於自己的岩分身</li>\n<li>勝於干柿鬼鮫（開啟驚門 - 晝虎）</li>\n<li>勝於忍刀七人眾（與卡卡西等協力）</li>\n<li>勝於六隻尾獸（與鳴人等協力）</li>\n<li>勝於宇智波帶土（與鳴人、佐助、卡卡西、忍者聯軍聯手）</li>\n<li>擊退宇智波斑（開啟死門－夕象,與波風湊、卡卡西、我愛羅、小李合力）</li>\n<li>重創宇智波斑（開啟死門－夜凱）</li></ul>\n<p>在故事中戰鬥次數不多，但大部份也是勝利收場；而他最後亦能把曉其中一員的鬼鮫擊倒，又是史上第二個能令班感到熱血沸騰的人，足見其實力不容小看.\n</p><p>==参考资料==\n</p>\n<div class=\"reflist\" style=\"list-style-type: decimal;\">\n</div>\n<ol><li>《临之书》，<a href=\"/wiki/%E5%B2%B8%E6%9C%AC%E9%BD%90%E5%8F%B2\" title=\"岸本齐史\">岸本齐史</a>，<a href=\"/wiki/%E5%8F%B0%E6%B9%BE%E4%B8%9C%E7%AB%8B%E5%87%BA%E7%89%88%E7%A4%BE\" class=\"mw-redirect\" title=\"台湾东立出版社\">台湾东立出版社</a>，<a href=\"/wiki/Special:BookSources/9861116311\" class=\"internal mw-magiclink-isbn\">ISBN 9861116311</a>，2003年12月9日</li>\n<li>《兵之书》，<a href=\"/wiki/%E5%B2%B8%E6%9C%AC%E9%BD%90%E5%8F%B2\" title=\"岸本齐史\">岸本齐史</a>，<a href=\"/wiki/%E5%8F%B0%E6%B9%BE%E4%B8%9C%E7%AB%8B%E5%87%BA%E7%89%88%E7%A4%BE\" class=\"mw-redirect\" title=\"台湾东立出版社\">台湾东立出版社</a>，<a href=\"/wiki/Special:BookSources/9861149627\" class=\"internal mw-magiclink-isbn\">ISBN 9861149627</a>，2005年8月17日</li>\n<li>《鬪之书》，<a href=\"/wiki/%E5%B2%B8%E6%9C%AC%E9%BD%90%E5%8F%B2\" title=\"岸本齐史\">岸本齐史</a>，<a href=\"/wiki/%E5%8F%B0%E6%B9%BE%E4%B8%9C%E7%AB%8B%E5%87%BA%E7%89%88%E7%A4%BE\" class=\"mw-redirect\" title=\"台湾东立出版社\">台湾东立出版社</a>，<a href=\"/wiki/Special:BookSources/9861183094\" class=\"internal mw-magiclink-isbn\">ISBN 9861183094</a>，2006年6月29日</li>\n<li>《火影忍者》漫画和动画</li></ol>\n<ul><li>動漫畫作品中的《變身》研究―以火影忍者為中心. 佛光大學碩士論文</li></ul>\n</div></div>\n<p>--<span data-mw-comment-sig=\"c-M940504-2014-06-28T05:01:00.000Z-条目「阿凯」的最后版本\"></span><a href=\"/wiki/User:M940504\" title=\"User:M940504\">M940504</a>（<a href=\"/wiki/User_talk:M940504\" title=\"User talk:M940504\">留言</a>） <a href=\"https://zh.wikipedia.org/wiki/Talk:%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8#c-M940504-2014-06-28T05:01:00.000Z-条目「阿凯」的最后版本\" class=\"ext-discussiontools-init-timestamplink\" title=\"11年前\">2014年6月28日 (六) 05:01 (UTC)</a><span class=\"ext-discussiontools-init-replylink-buttons\" data-mw-thread-id=\"c-M940504-2014-06-28T05:01:00.000Z-条目「阿凯」的最后版本\"><span id='ooui-php-7' class='ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-iconElement oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{\"_\":\"OO.ui.ButtonWidget\",\"rel\":[\"nofollow\"],\"framed\":false,\"icon\":\"share\",\"label\":\"\\u56de\\u590d\",\"flags\":[\"progressive\"],\"classes\":[\"ext-discussiontools-init-replybutton\"]}'><a role='button' tabindex='0' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-icon-share oo-ui-image-progressive'></span><span class='oo-ui-labelElement-label'>回复</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive'></span></a></span></span><span data-mw-comment-end=\"c-M940504-2014-06-28T05:01:00.000Z-条目「阿凯」的最后版本\"></span>\n</p>\n<div class=\"mw-heading mw-heading2 ext-discussiontools-init-section\"><h2 id=\"重寫吧？\" data-mw-thread-id=\"h-重寫吧？-2014-11-25T12:20:00.000Z\"><span id=\".E9.87.8D.E5.AF.AB.E5.90.A7.EF.BC.9F\"></span><span data-mw-comment-start=\"\" id=\"h-重寫吧？-2014-11-25T12:20:00.000Z\"></span>重寫吧？<span data-mw-comment-end=\"h-重寫吧？-2014-11-25T12:20:00.000Z\"></span></h2><span class=\"mw-editsection\"><span class=\"mw-editsection-bracket\">[</span><a href=\"/w/index.php?title=Talk:%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8&amp;action=edit&amp;section=8\" title=\"编辑章节：重寫吧？\"><span>编辑</span></a><span class=\"mw-editsection-bracket\">]</span></span><div class=\"ext-discussiontools-init-section-bar\"><div class=\"ext-discussiontools-init-section-metadata\"><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-timestampLabel'>最新留言：<a href=\"#c-KyleRGiggs-2014-11-25T12:20:00.000Z-重寫吧？\">11年前</a></span><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-commentCountLabel'>1条留言</span><span class='ext-discussiontools-init-section-metaitem ext-discussiontools-init-section-authorCountLabel'>1人参与讨论</span></div><div class=\"ext-discussiontools-init-section-actions\"></div></div></div>\n<p><span data-mw-comment-start=\"\" id=\"c-KyleRGiggs-2014-11-25T12:20:00.000Z-重寫吧？\"></span>格式很籠統，倒不如重寫。 <span data-mw-comment-sig=\"c-KyleRGiggs-2014-11-25T12:20:00.000Z-重寫吧？\"></span><a href=\"/wiki/User:KyleRGiggs\" title=\"User:KyleRGiggs\">激</a><a href=\"/wiki/User_talk:KyleRGiggs\" title=\"User talk:KyleRGiggs\">仔</a> <a href=\"https://zh.wikipedia.org/wiki/Talk:%E6%9C%A8%E5%8F%B6%E6%9D%91%E8%A7%92%E8%89%B2%E5%88%97%E8%A1%A8#c-KyleRGiggs-2014-11-25T12:20:00.000Z-重寫吧？\" class=\"ext-discussiontools-init-timestamplink\" title=\"11年前\">2014年11月25日 (二) 12:20 (UTC)</a><span class=\"ext-discussiontools-init-replylink-buttons\" data-mw-thread-id=\"c-KyleRGiggs-2014-11-25T12:20:00.000Z-重寫吧？\"><span id='ooui-php-8' class='ext-discussiontools-init-replybutton oo-ui-widget oo-ui-widget-enabled oo-ui-buttonElement oo-ui-buttonElement-frameless oo-ui-iconElement oo-ui-labelElement oo-ui-flaggedElement-progressive oo-ui-buttonWidget' data-ooui='{\"_\":\"OO.ui.ButtonWidget\",\"rel\":[\"nofollow\"],\"framed\":false,\"icon\":\"share\",\"label\":\"\\u56de\\u590d\",\"flags\":[\"progressive\"],\"classes\":[\"ext-discussiontools-init-replybutton\"]}'><a role='button' tabindex='0' rel='nofollow' class='oo-ui-buttonElement-button'><span class='oo-ui-iconElement-icon oo-ui-icon-share oo-ui-image-progressive'></span><span class='oo-ui-labelElement-label'>回复</span><span class='oo-ui-indicatorElement-indicator oo-ui-indicatorElement-noIndicator oo-ui-image-progressive'></span></a></span></span><span data-mw-comment-end=\"c-KyleRGiggs-2014-11-25T12:20:00.000Z-重寫吧？\"></span>\n</p>\n<!-- \nNewPP limit report\nParsed by mw‐web.codfw.main‐7c7c5995d‐mbldd\nCached time: 20260203223554\nCache expiry: 864000\nReduced expiry: true\nComplications: [show‐toc]\nDiscussionTools time usage: 0.059 seconds\nCPU time usage: 0.446 seconds\nReal time usage: 0.536 seconds\nPreprocessor visited node count: 3360/1000000\nRevision size: 25155/2097152 bytes\nPost‐expand include size: 59498/2097152 bytes\nTemplate argument size: 9995/2097152 bytes\nHighest expansion depth: 13/100\nExpensive parser function count: 2/500\nUnstrip recursion depth: 0/20\nUnstrip post‐expand size: 6857/5000000 bytes\nLua time usage: 0.227/10.000 seconds\nLua memory usage: 15822886/52428800 bytes\nNumber of Wikibase entities loaded: 0/500\n-->\n<!--\nTransclusion expansion time report (%,ms,calls,template)\n100.00%  368.227      1 -total\n 51.31%  188.931      1 Template:火影忍者人物\n 50.23%  184.967      1 Template:Infobox\n 34.27%  126.197      2 Template:Lang\n 19.70%   72.529      1 Template:NoteTA\n 12.55%   46.198      1 Template:Old_vfd_multi\n  8.84%   32.563    141 Template:CItem\n  8.56%   31.519      1 Template:Merged-to\n  8.06%   29.661      1 Template:Tmbox\n  4.58%   16.864      1 Template:Pathnav\n-->\n\n<!-- Saved in parser cache with key zhwiki:pcache:1225424:|#|:idhash:canonical!zh and timestamp 20260203223554 and revision id 87832137. Rendering was triggered because: page_view\n -->\n</div>",
+    "categories": [
+      {
+        "sortkey": "",
+        "category": "使用Pathnav的页面",
+        "hidden": true
+      },
+      {
+        "sortkey": "",
+        "category": "缺少文件的讨论页",
+        "hidden": true
+      },
+      {
+        "sortkey": "",
+        "category": "火影忍者人物"
+      },
+      {
+        "sortkey": "",
+        "category": "使用ISBN魔术链接的页面",
+        "hidden": true
+      }
+    ],
+    "links": [
+      {
+        "ns": 4,
+        "title": "Wikipedia:首页",
+        "exists": true
+      },
+      {
+        "ns": 4,
+        "title": "Wikipedia:删除方针",
+        "exists": true
+      },
+      {
+        "ns": 4,
+        "title": "Wikipedia:合并",
+        "exists": true
+      },
+      {
+        "ns": 4,
+        "title": "Wikipedia:頁面存廢討論/記錄/2025/06/02",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "日本",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "香港",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "臺灣地區",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "三代目火影",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "下盤",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "人类血型系统",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "公斤",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "厘米",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "台湾东立出版社",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "天天",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "天天 (火影忍者)",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "奈良鹿丸",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "宇智波佐助",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "宇智波斑",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "宇智波鼬",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "岸本齐史",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "我愛羅",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "掌上壓",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "旗木卡卡西",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "春野櫻",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "朱雀",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "李小龍",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "李洛克",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "李錦綸",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "林協忠",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "江原正士",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "漩渦鳴人",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "火之国",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "火影忍者",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "火影忍者術列表",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "火影忍者角色列表",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "玄武",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "白虎",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "自来也 (火影忍者)",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "迪達拉",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "阿凯",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "青龍",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "鳴人",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "写轮眼",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "夕日红",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "日向宁次",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "日向雏田",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "猿飞阿斯玛",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "纲手",
+        "exists": true
+      },
+      {
+        "ns": 0,
+        "title": "药师兜",
+        "exists": true
+      },
+      {
+        "ns": 1,
+        "title": "Talk:火影忍者",
+        "exists": true
+      },
+      {
+        "ns": 1,
+        "title": "Talk:火影忍者角色列表",
+        "exists": true
+      },
+      {
+        "ns": 1,
+        "title": "Talk:木叶村忍者列表",
+        "exists": true
+      },
+      {
+        "ns": 2,
+        "title": "User:Amine wiki",
+        "exists": true
+      },
+      {
+        "ns": 2,
+        "title": "User:Erty9774",
+        "exists": true
+      },
+      {
+        "ns": 2,
+        "title": "User:KyleRGiggs",
+        "exists": true
+      },
+      {
+        "ns": 2,
+        "title": "User:M940504",
+        "exists": true
+      },
+      {
+        "ns": 2,
+        "title": "User:Cshk108",
+        "exists": false
+      },
+      {
+        "ns": 2,
+        "title": "User:KevinSET",
+        "exists": false
+      },
+      {
+        "ns": 3,
+        "title": "User talk:Amine wiki",
+        "exists": true
+      },
+      {
+        "ns": 3,
+        "title": "User talk:Cshk108",
+        "exists": true
+      },
+      {
+        "ns": 3,
+        "title": "User talk:Erty9774",
+        "exists": true
+      },
+      {
+        "ns": 3,
+        "title": "User talk:KevinSET",
+        "exists": true
+      },
+      {
+        "ns": 3,
+        "title": "User talk:KyleRGiggs",
+        "exists": true
+      },
+      {
+        "ns": 3,
+        "title": "User talk:M940504",
+        "exists": true
+      },
+      {
+        "ns": 3,
+        "title": "User talk:Ypzrgy1225",
+        "exists": true
+      },
+      {
+        "ns": 3,
+        "title": "User talk:219.87.148.219",
+        "exists": false
+      },
+      {
+        "ns": 3,
+        "title": "User talk:118.168.136.4",
+        "exists": false
+      }
+    ],
+    "images": [
+      "Zh_conversion_icon_m.svg",
+      "Clipboard.svg",
+      "Merge-arrow.svg",
+      "Home_breadcrumb.svg",
+      "Breadcrumb_separator_2.svg",
+      "Maito_Gai.jpg",
+      "Flag_of_Japan.svg",
+      "Flag_of_Hong_Kong.svg",
+      "Flag_of_the_Republic_of_China.svg"
+    ],
+    "externallinks": [],
+    "sections": [
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "第六代火影的疑問",
+        "number": "1",
+        "index": "1",
+        "fromtitle": "Talk:木叶村角色列表",
+        "byteoffset": 67,
+        "anchor": "第六代火影的疑問",
+        "linkAnchor": "第六代火影的疑問",
+        "extensionData": {
+          "DiscussionTools-html-summary": "<span class=\"ext-discussiontools-init-sidebar-meta\">1条留言</span>"
+        }
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "第六代火影是鳴人？",
+        "number": "2",
+        "index": "2",
+        "fromtitle": "Talk:木叶村角色列表",
+        "byteoffset": 366,
+        "anchor": "第六代火影是鳴人？",
+        "linkAnchor": "第六代火影是鳴人？",
+        "extensionData": {
+          "DiscussionTools-html-summary": ""
+        }
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "Untitled",
+        "number": "3",
+        "index": "3",
+        "fromtitle": "Talk:木叶村角色列表",
+        "byteoffset": 497,
+        "anchor": "Untitled",
+        "linkAnchor": "Untitled",
+        "extensionData": {
+          "DiscussionTools-html-summary": "<span class=\"ext-discussiontools-init-sidebar-meta\">1条留言</span>"
+        }
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "團藏是個偉人??",
+        "number": "4",
+        "index": "4",
+        "fromtitle": "Talk:木叶村角色列表",
+        "byteoffset": 631,
+        "anchor": "團藏是個偉人??",
+        "linkAnchor": "團藏是個偉人??",
+        "extensionData": {
+          "DiscussionTools-html-summary": "<span class=\"ext-discussiontools-init-sidebar-meta\">1条留言</span>"
+        }
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "初代、斑和九尾的問題",
+        "number": "5",
+        "index": "5",
+        "fromtitle": "Talk:木叶村角色列表",
+        "byteoffset": 931,
+        "anchor": "初代、斑和九尾的問題",
+        "linkAnchor": "初代、斑和九尾的問題",
+        "extensionData": {
+          "DiscussionTools-html-summary": "<span class=\"ext-discussiontools-init-sidebar-meta\">2条留言</span>"
+        }
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "卡卡西是特別上忍？",
+        "number": "6",
+        "index": "6",
+        "fromtitle": "Talk:木叶村角色列表",
+        "byteoffset": 1313,
+        "anchor": "卡卡西是特別上忍？",
+        "linkAnchor": "卡卡西是特別上忍？",
+        "extensionData": {
+          "DiscussionTools-html-summary": "<span class=\"ext-discussiontools-init-sidebar-meta\">1条留言</span>"
+        }
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "条目「阿凯」的最后版本",
+        "number": "7",
+        "index": "7",
+        "fromtitle": "Talk:木叶村角色列表",
+        "byteoffset": 1458,
+        "anchor": "条目「阿凯」的最后版本",
+        "linkAnchor": "条目「阿凯」的最后版本",
+        "extensionData": {
+          "DiscussionTools-html-summary": "<span class=\"ext-discussiontools-init-sidebar-meta\">1条留言</span>"
+        }
+      },
+      {
+        "toclevel": 1,
+        "level": "2",
+        "line": "重寫吧？",
+        "number": "8",
+        "index": "8",
+        "fromtitle": "Talk:木叶村角色列表",
+        "byteoffset": 10084,
+        "anchor": "重寫吧？",
+        "linkAnchor": "重寫吧？",
+        "extensionData": {
+          "DiscussionTools-html-summary": "<span class=\"ext-discussiontools-init-sidebar-meta\">1条留言</span>"
+        }
+      }
+    ],
+    "showtoc": true
+  }
+}

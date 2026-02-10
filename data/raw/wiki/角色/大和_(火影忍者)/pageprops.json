@@ -1,0 +1,24 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "大和_(火影忍者)",
+        "to": "大和 (火影忍者)"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 728810,
+        "ns": 0,
+        "title": "大和 (火影忍者)",
+        "pageprops": {
+          "defaultsort": "Yamato",
+          "page_image": "大和.png",
+          "wikibase_item": "Q209028"
+        }
+      }
+    ]
+  }
+}

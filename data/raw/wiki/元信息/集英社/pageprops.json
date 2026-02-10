@@ -1,0 +1,17 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 315877,
+        "ns": 0,
+        "title": "集英社",
+        "pageprops": {
+          "defaultsort": "Shuueisha",
+          "page_image_free": "Shueisha_Jimbocho_Building_20230919.jpg",
+          "wikibase_item": "Q844822"
+        }
+      }
+    ]
+  }
+}

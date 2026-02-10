@@ -1,0 +1,17 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 522276,
+        "ns": 0,
+        "title": "我愛羅",
+        "pageprops": {
+          "defaultsort": "Gaara",
+          "page_image": "GaaraKishimoto.jpg",
+          "wikibase_item": "Q221196"
+        }
+      }
+    ]
+  }
+}

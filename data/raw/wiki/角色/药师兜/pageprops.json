@@ -1,0 +1,17 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 622163,
+        "ns": 0,
+        "title": "药师兜",
+        "pageprops": {
+          "defaultsort": "Yakushi Kabuto",
+          "page_image": "Yakushi_Kabuto.jpg",
+          "wikibase_item": "Q696594"
+        }
+      }
+    ]
+  }
+}

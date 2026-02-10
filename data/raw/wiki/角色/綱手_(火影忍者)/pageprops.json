@@ -1,0 +1,24 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "綱手_(火影忍者)",
+        "to": "綱手 (火影忍者)"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 431201,
+        "ns": 0,
+        "title": "綱手 (火影忍者)",
+        "pageprops": {
+          "defaultsort": "Tsunade",
+          "page_image": "纲手姬000.jpg",
+          "wikibase_item": "Q10924557"
+        }
+      }
+    ]
+  }
+}

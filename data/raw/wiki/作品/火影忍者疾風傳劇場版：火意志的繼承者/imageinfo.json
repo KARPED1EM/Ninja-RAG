@@ -1,0 +1,42 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Tango-nosources.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 10848,
+            "width": 48,
+            "height": 48,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tango-nosources.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tango-nosources.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4103938",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      }
+    ]
+  }
+}

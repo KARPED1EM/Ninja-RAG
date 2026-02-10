@@ -1,0 +1,76 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Ambox important.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 6821,
+            "width": 40,
+            "height": 40,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4042543",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "pageid": 1085659,
+        "ns": 6,
+        "title": "File:One tail--five tail.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 34900,
+            "width": 378,
+            "height": 263,
+            "url": "https://upload.wikimedia.org/wikipedia/zh/5/56/One_tail--five_tail.jpg",
+            "descriptionurl": "https://zh.wikipedia.org/wiki/File:One_tail--five_tail.jpg",
+            "descriptionshorturl": "https://zh.wikipedia.org/w/index.php?curid=1085659",
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "pageid": 1085667,
+        "ns": 6,
+        "title": "File:Six tail--nine tail.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 41823,
+            "width": 384,
+            "height": 266,
+            "url": "https://upload.wikimedia.org/wikipedia/zh/7/77/Six_tail--nine_tail.jpg",
+            "descriptionurl": "https://zh.wikipedia.org/wiki/File:Six_tail--nine_tail.jpg",
+            "descriptionshorturl": "https://zh.wikipedia.org/w/index.php?curid=1085667",
+            "mime": "image/jpeg"
+          }
+        ]
+      }
+    ]
+  }
+}

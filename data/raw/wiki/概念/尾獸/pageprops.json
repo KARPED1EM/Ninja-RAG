@@ -1,0 +1,16 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 499433,
+        "ns": 0,
+        "title": "尾獸",
+        "pageprops": {
+          "page_image": "One_tail--five_tail.jpg",
+          "wikibase_item": "Q55515"
+        }
+      }
+    ]
+  }
+}

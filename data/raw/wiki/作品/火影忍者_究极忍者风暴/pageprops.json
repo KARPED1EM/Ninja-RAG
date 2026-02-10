@@ -1,0 +1,24 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "火影忍者_究极忍者风暴",
+        "to": "火影忍者 究极忍者风暴"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 5680496,
+        "ns": 0,
+        "title": "火影忍者 究极忍者风暴",
+        "pageprops": {
+          "defaultsort": "Naruto Ultimate Storm",
+          "page_image": "火影忍者：究极忍者风暴1-封面图片.jpg",
+          "wikibase_item": "Q1299620"
+        }
+      }
+    ]
+  }
+}

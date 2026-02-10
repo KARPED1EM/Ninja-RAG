@@ -1,0 +1,23 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "火影忍者_木葉的忍者英雄們2",
+        "to": "火影忍者 木葉的忍者英雄們2"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 3254636,
+        "ns": 0,
+        "title": "火影忍者 木葉的忍者英雄們2",
+        "pageprops": {
+          "defaultsort": "Naruto, Ultimate Ninja 2",
+          "wikibase_item": "Q1150209"
+        }
+      }
+    ]
+  }
+}

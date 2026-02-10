@@ -1,0 +1,330 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Commons-logo.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 932,
+            "width": 1024,
+            "height": 1376,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Commons-logo.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Commons-logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=317966",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Bague orochimaru.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 17369,
+            "width": 580,
+            "height": 590,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Bague_orochimaru.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bague_orochimaru.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8918760",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Bague sasori.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 17058,
+            "width": 580,
+            "height": 590,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Bague_sasori.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bague_sasori.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9103852",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Bague hidan.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 16125,
+            "width": 580,
+            "height": 590,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bague_hidan.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bague_hidan.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9544851",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Bague Kakuzu.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 16841,
+            "width": 580,
+            "height": 590,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Bague_Kakuzu.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bague_Kakuzu.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9544958",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Bague Kisame.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 17163,
+            "width": 580,
+            "height": 590,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Bague_Kisame.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bague_Kisame.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9861324",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Bague Zetsu.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 17431,
+            "width": 580,
+            "height": 590,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Bague_Zetsu.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bague_Zetsu.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10316649",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Bague itachi.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 16518,
+            "width": 580,
+            "height": 590,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Bague_itachi.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bague_itachi.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8933086",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Bague Konan.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 14663,
+            "width": 580,
+            "height": 590,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Bague_Konan.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bague_Konan.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10316484",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Bague Deidara.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 16639,
+            "width": 580,
+            "height": 590,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bague_Deidara.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bague_Deidara.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10316605",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Bague Tendô.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 17455,
+            "width": 580,
+            "height": 590,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Bague_Tend%C3%B4.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bague_Tend%C3%B4.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10316189",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Naruto Akatsuki robe.JPG",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 1644263,
+            "width": 2048,
+            "height": 3648,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Naruto_Akatsuki_robe.JPG",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Naruto_Akatsuki_robe.JPG",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10466982",
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Bandeau konoha.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 15896,
+            "width": 420,
+            "height": 320,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Bandeau_konoha.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Bandeau_konoha.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9729019",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Chapeau akatsuki.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 39320,
+            "width": 700,
+            "height": 780,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Chapeau_akatsuki.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chapeau_akatsuki.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9264037",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Akatsuki clouds shiny tiles texture.png",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 66366,
+            "width": 600,
+            "height": 600,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Akatsuki_clouds_shiny_tiles_texture.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Akatsuki_clouds_shiny_tiles_texture.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=8807868",
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Copyright-problem.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 10792,
+            "width": 111,
+            "height": 120,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Copyright-problem.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Copyright-problem.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2756124",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Ambox important.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 6821,
+            "width": 40,
+            "height": 40,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ambox_important.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Ambox_important.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4042543",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      }
+    ]
+  }
+}

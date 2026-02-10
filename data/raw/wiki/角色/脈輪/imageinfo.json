@@ -1,0 +1,368 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:OOjs UI icon edit-ltr-progressive.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 349,
+            "width": 20,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_edit-ltr-progressive.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=55041643",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Tibetian Wheel.gif",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 2501286,
+            "width": 250,
+            "height": 250,
+            "duration": 15.050000000000042,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Tibetian_Wheel.gif",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tibetian_Wheel.gif",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77515010",
+            "mime": "image/gif"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Tibetian Wheel GIF.gif",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 2501286,
+            "width": 250,
+            "height": 250,
+            "duration": 15.050000000000042,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Tibetian_Wheel.gif",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Tibetian_Wheel.gif",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=77515010",
+            "mime": "image/gif"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Dharma Wheel.gif",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 2897234,
+            "width": 1000,
+            "height": 1000,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Dharma_Wheel.gif",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Dharma_Wheel.gif",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=17152764",
+            "mime": "image/gif"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Faith Buddhism Vajra.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 10224,
+            "width": 300,
+            "height": 300,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Faith_Buddhism_Vajra.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Faith_Buddhism_Vajra.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=15835163",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Om symbol.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 2995,
+            "width": 356,
+            "height": 367,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Om_symbol.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Om_symbol.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3191831",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:HinduSwastika.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 4213,
+            "width": 142,
+            "height": 145,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/63/HinduSwastika.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:HinduSwastika.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=625458",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Commons-logo.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 932,
+            "width": 1024,
+            "height": 1376,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Commons-logo.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Commons-logo.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=317966",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Lock-blue-alt-2.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 516,
+            "width": 512,
+            "height": 813,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Lock-blue-alt-2.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lock-blue-alt-2.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52185500",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Chakra01.png",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 9274,
+            "width": 165,
+            "height": 120,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/55/Chakra01.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chakra01.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36896005",
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Chakra02.png",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 9194,
+            "width": 165,
+            "height": 146,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Chakra02.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chakra02.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36896009",
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Chakra03.png",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 9845,
+            "width": 165,
+            "height": 142,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Chakra03.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chakra03.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36896012",
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Chakra04.png",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 10339,
+            "width": 165,
+            "height": 142,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Chakra04.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chakra04.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36896017",
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Chakra05.png",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 11015,
+            "width": 165,
+            "height": 147,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Chakra05.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chakra05.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36896024",
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Chakra06.png",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 10244,
+            "width": 165,
+            "height": 127,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Chakra06.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chakra06.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36896029",
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Chakra07.png",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 12485,
+            "width": 165,
+            "height": 145,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Chakra07.png",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chakra07.png",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=36896216",
+            "mime": "image/png"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Chakras.jpg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 47652,
+            "width": 516,
+            "height": 609,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Chakras.jpg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chakras.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=178993",
+            "mime": "image/jpeg"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Confusion grey.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 583,
+            "width": 260,
+            "height": 200,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Confusion_grey.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Confusion_grey.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3678912",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Disambig gray.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 1509,
+            "width": 220,
+            "height": 168,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Disambig_gray.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Disambig_gray.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1034885",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      }
+    ]
+  }
+}

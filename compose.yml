@@ -1,0 +1,55 @@
+services:
+  mysql:
+    image: mysql:8.0.45
+    container_name: ninja-rag-mysql
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: ninja_rag_2024
+      MYSQL_DATABASE: ninja_rag
+    volumes:
+      - ./data/storage/mysql:/var/lib/mysql
+    command: --default-authentication-plugin=mysql_native_password
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  milvus:
+    image: milvusdb/milvus:v2.4.24
+    container_name: ninja-rag-milvus-standalone
+    command: milvus run standalone
+    ports:
+      - "19530:19530"
+      - "9091:9091"
+    environment:
+      DEPLOY_MODE: standalone
+      ETCD_USE_EMBED: true
+      COMMON_STORAGETYPE: local
+    volumes:
+      - ./data/storage/milvus:/var/lib/milvus
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9091/healthz"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  neo4j:
+    image: neo4j:5.26.21
+    container_name: ninja-rag-neo4j
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    environment:
+      NEO4J_AUTH: neo4j/ninja_rag_2024
+      NEO4J_PLUGINS: '["apoc"]'
+      NEO4J_dbms_security_procedures_unrestricted: apoc.*
+      NEO4J_dbms_security_procedures_allowlist: apoc.*
+    volumes:
+      - ./data/storage/neo4j:/data
+    healthcheck:
+      test: ["CMD", "cypher-shell", "-u", "neo4j", "-p", "ninja_rag_2024", "RETURN 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5

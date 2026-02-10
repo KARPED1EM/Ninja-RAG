@@ -1,0 +1,23 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "火影忍者_疾風傳_忍立體繪卷！最強忍界決戰！！",
+        "to": "火影忍者 疾風傳 忍立體繪卷！最強忍界決戰！！"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 1579518,
+        "ns": 0,
+        "title": "火影忍者 疾風傳 忍立體繪卷！最強忍界決戰！！",
+        "pageprops": {
+          "defaultsort": "Naruto Shippūden, Nin Rittai Emaki Saikyō Ninkai Kessen",
+          "wikibase_item": "Q3239773"
+        }
+      }
+    ]
+  }
+}

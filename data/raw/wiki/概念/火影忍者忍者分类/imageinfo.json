@@ -1,0 +1,60 @@
+{
+  "query": {
+    "pages": [
+      {
+        "ns": 6,
+        "title": "File:Anbu Symbol.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 4671,
+            "width": 70,
+            "height": 195,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Anbu_Symbol.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Anbu_Symbol.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=9785584",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Naruto ninja ranks and missions (ja).svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 25659,
+            "width": 393,
+            "height": 283,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Naruto_ninja_ranks_and_missions_%28ja%29.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Naruto_ninja_ranks_and_missions_(ja).svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=11923942",
+            "mime": "image/svg+xml"
+          }
+        ]
+      },
+      {
+        "ns": 6,
+        "title": "File:Zh conversion icon m.svg",
+        "missing": true,
+        "known": true,
+        "imagerepository": "shared",
+        "imageinfo": [
+          {
+            "size": 13382,
+            "width": 32,
+            "height": 20,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Zh_conversion_icon_m.svg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Zh_conversion_icon_m.svg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=21424583",
+            "mime": "image/svg+xml"
+          }
+        ]
+      }
+    ]
+  }
+}

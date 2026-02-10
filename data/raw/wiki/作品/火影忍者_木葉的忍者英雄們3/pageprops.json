@@ -1,0 +1,23 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "火影忍者_木葉的忍者英雄們3",
+        "to": "火影忍者 木葉的忍者英雄們3"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 3255958,
+        "ns": 0,
+        "title": "火影忍者 木葉的忍者英雄們3",
+        "pageprops": {
+          "defaultsort": "Naruto：Narutiment Hero 3",
+          "wikibase_item": "Q3336147"
+        }
+      }
+    ]
+  }
+}

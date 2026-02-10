@@ -1,0 +1,17 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 401313,
+        "ns": 0,
+        "title": "旗木卡卡西",
+        "pageprops": {
+          "defaultsort": "Hatake Kakashi",
+          "page_image": "Kakashi.JPG",
+          "wikibase_item": "Q1767"
+        }
+      }
+    ]
+  }
+}

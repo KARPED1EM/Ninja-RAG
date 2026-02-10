@@ -1,0 +1,22 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "normalized": [
+      {
+        "fromencoded": false,
+        "from": "查克拉_(火影忍者)",
+        "to": "查克拉 (火影忍者)"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 980909,
+        "ns": 0,
+        "title": "查克拉 (火影忍者)",
+        "pageprops": {
+          "wikibase_item": "Q11108900"
+        }
+      }
+    ]
+  }
+}

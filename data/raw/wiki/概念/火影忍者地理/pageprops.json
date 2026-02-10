@@ -1,0 +1,16 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 520576,
+        "ns": 0,
+        "title": "火影忍者地理",
+        "pageprops": {
+          "page_image_free": "Naruto_World_Map.svg",
+          "wikibase_item": "Q379032"
+        }
+      }
+    ]
+  }
+}

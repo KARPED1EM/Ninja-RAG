@@ -1,0 +1,17 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 10799,
+        "ns": 0,
+        "title": "週刊少年Jump",
+        "pageprops": {
+          "defaultsort": "Jump",
+          "page_image_free": "Weekly_Shonen_Jump_logo.svg",
+          "wikibase_item": "Q220015"
+        }
+      }
+    ]
+  }
+}
